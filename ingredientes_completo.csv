@@ -1,0 +1,1669 @@
+Ingrediente,Frecuencia,Costo unitario estimado (S/),Stock actual,Nivel de criticidad,Sustituible (Si/No),Co-ocurrencias frecuentes
+arandanos,36,19.6,10,Medio,No,"leche, huevo"
+azucar granulada,2,5.36,80,Medio,Si,"leche, huevo"
+yogurt de vainilla,27,13.12,45,Medio,Si,"leche, huevo"
+jugo de limon,18,5.44,31,Alto,No,"leche, huevo"
+azucar,51,0.68,24,Medio,No,"harina, azucar"
+cascara de limon,31,0.59,27,Alto,No,
+ralladura de limon,74,16.24,96,Alto,No,"canela, vainilla"
+agua fresca,80,18.3,25,Alto,Si,
+jugo de limon fresco,38,1.54,23,Medio,Si,"canela, vainilla"
+agua,19,5.39,99,Medio,Si,"canela, vainilla"
+te negro,4,17.35,44,Bajo,No,"canela, vainilla"
+canela en rama,39,4.59,74,Alto,No,"harina, azucar"
+leche,70,3.89,62,Alto,No,"canela, vainilla"
+miel,49,19.96,91,Alto,No,"leche, huevo"
+cardamomo,4,19.2,25,Medio,Si,"leche, huevo"
+pimienta negra,24,13.59,61,Bajo,No,
+anis estrellado,95,14.3,60,Bajo,No,
+clavo de olor,51,15.7,84,Medio,Si,"harina, azucar"
+semilla de cilantro,43,15.63,63,Bajo,Si,"canela, vainilla"
+cafe instantaneo,41,19.85,77,Bajo,Si,"leche, huevo"
+azucar rubia,67,5.35,61,Bajo,No,"leche, huevo"
+extracto de vainilla,57,4.0,78,Alto,No,"leche, huevo"
+harina,23,16.73,11,Bajo,No,"harina, azucar"
+mitades de pecana,96,17.32,89,Medio,No,"harina, azucar"
+margarina,73,8.1,35,Alto,Si,
+huevo,99,13.32,1,Alto,No,"canela, vainilla"
+sal,82,1.67,59,Bajo,Si,"leche, huevo"
+suero de leche,86,8.36,5,Bajo,Si,"canela, vainilla"
+galleta graham,76,12.16,70,Alto,Si,"canela, vainilla"
+polvo de hornear,99,1.69,88,Alto,No,"harina, azucar"
+especias,43,10.37,52,Alto,No,"leche, huevo"
+zanahorias,88,7.8,74,Bajo,No,"canela, vainilla"
+nueces,66,3.43,18,Alto,Si,"harina, azucar"
+pina,30,3.3,28,Bajo,Si,
+coco,90,8.75,50,Alto,Si,"leche, huevo"
+pasas,77,15.79,73,Medio,No,"canela, vainilla"
+compota de manzana,43,8.35,44,Alto,No,"leche, huevo"
+huevos,97,6.73,96,Bajo,No,"harina, azucar"
+margarine,16,16.41,22,Alto,No,"harina, azucar"
+romero fresco,18,7.62,5,Medio,Si,"leche, huevo"
+macarrones en espiral tricolores,22,4.2,95,Alto,No,"leche, huevo"
+chalotes,20,11.03,72,Medio,No,
+semillas de hinojo,32,6.9,24,Bajo,Si,"harina, azucar"
+frijoles de ojos negros,62,12.7,57,Bajo,Si,
+celery,37,15.27,34,Medio,No,"leche, huevo"
+azucar cernido,16,5.03,53,Bajo,No,"canela, vainilla"
+mostaza,22,10.84,92,Bajo,Si,"harina, azucar"
+jarabe de arce puro,93,10.83,45,Alto,Si,"harina, azucar"
+floretes de coliflor,61,12.55,15,Bajo,No,"canela, vainilla"
+frijoles limas,11,14.09,100,Alto,Si,"leche, huevo"
+salsa de queso,18,14.52,39,Medio,No,"leche, huevo"
+arroz blanco de grano largo,94,5.93,88,Alto,No,
+pisco,94,16.58,49,Alto,No,"canela, vainilla"
+curcuma,81,9.61,10,Alto,Si,"harina, azucar"
+espaguetis,30,11.7,31,Bajo,No,"leche, huevo"
+(ingredientes no especificados),63,10.82,17,Alto,No,"leche, huevo"
+mitad de segundo,10,1.67,4,Bajo,Si,"harina, azucar"
+boneless skinless chicken breast,55,12.04,67,Bajo,No,"harina, azucar"
+calabaza bellota,44,9.58,36,Alto,No,"canela, vainilla"
+pecans,42,11.76,12,Alto,Si,"canela, vainilla"
+pimienta en grano,92,12.68,23,Medio,No,"canela, vainilla"
+florete de coliflor,45,10.83,80,Medio,Si,
+concentrado de lima congelado,19,12.41,75,Bajo,Si,"canela, vainilla"
+palta,15,14.2,43,Medio,Si,"canela, vainilla"
+harina de trigo integral,32,10.39,35,Medio,Si,
+crema agria ligera,79,7.27,54,Alto,No,"canela, vainilla"
+frutas secas,92,2.41,6,Alto,No,
+salchicha de granjero,100,2.63,80,Bajo,No,
+frijoles de lima,60,10.36,64,Bajo,Si,
+red bell peppers,65,8.04,11,Medio,No,"canela, vainilla"
+sal marina hawaiana,86,9.49,65,Alto,Si,"canela, vainilla"
+tomates italianos enlatados,26,16.55,6,Alto,Si,"leche, huevo"
+pepper,86,13.67,37,Alto,Si,"leche, huevo"
+chile chipotle,93,17.04,91,Medio,Si,"canela, vainilla"
+chocolate amargo importado,77,3.5,80,Bajo,No,"canela, vainilla"
+brotes de frijoles,58,13.59,65,Medio,Si,"harina, azucar"
+fresas,19,7.26,0,Bajo,No,"leche, huevo"
+cafe instantaneo,19,12.68,44,Bajo,No,"harina, azucar"
+pasas mezcladas,60,4.32,37,Bajo,No,
+pechos de cordero,69,4.54,57,Bajo,No,
+manzana,11,4.71,29,Medio,Si,"harina, azucar"
+acedera,66,10.97,68,Alto,Si,"harina, azucar"
+semillas de sesamo,17,9.94,72,Medio,Si,"leche, huevo"
+pimiento morron amarillo,43,4.66,19,Bajo,Si,"canela, vainilla"
+filete de redondo,69,3.24,79,Alto,Si,"harina, azucar"
+garlic powder,89,13.68,15,Bajo,Si,
+chicha de jora,69,13.1,78,Bajo,Si,"canela, vainilla"
+papa pequena,90,2.53,77,Bajo,Si,"leche, huevo"
+papas blancas,66,4.54,93,Bajo,No,
+vanilla,47,11.94,24,Medio,No,"leche, huevo"
+lemon,4,5.25,84,Medio,No,
+perejil seco,92,3.84,94,Alto,No,"canela, vainilla"
+cebolla blanca,93,10.49,31,Medio,Si,"canela, vainilla"
+semilla de apio,52,17.63,94,Bajo,No,"leche, huevo"
+ron ligero,93,6.22,0,Alto,Si,"leche, huevo"
+queso parmesano bajo en grasa,2,5.22,47,Medio,Si,
+hamburguesas,45,12.35,23,Alto,Si,
+pollo broiler,71,17.68,63,Medio,No,"canela, vainilla"
+manzanas acidas,27,5.09,90,Alto,Si,"harina, azucar"
+otro endulzante,7,8.83,21,Bajo,No,"leche, huevo"
+sal sazonada,61,1.24,56,Medio,No,"leche, huevo"
+hojas de oregano,83,5.11,75,Alto,No,"canela, vainilla"
+azucar,46,10.16,29,Medio,Si,"leche, huevo"
+cebolla amarilla,86,0.82,41,Bajo,Si,"harina, azucar"
+cebolla dulce,75,2.76,56,Bajo,Si,"harina, azucar"
+pollo sin hueso,58,1.08,63,Alto,No,"canela, vainilla"
+arroz blanco de coccion rapida,27,10.66,10,Medio,No,
+curry saag,25,11.28,45,Bajo,No,
+vino oporto,50,17.17,78,Bajo,No,"harina, azucar"
+erizo de mar,47,8.1,14,Alto,No,"leche, huevo"
+calabaza enlatada,65,5.04,93,Alto,No,"harina, azucar"
+ketchup reducido en sodio,67,0.92,49,Bajo,No,
+relleno de ciruelas,28,13.26,9,Alto,Si,"harina, azucar"
+harina de trigo,80,11.97,50,Medio,Si,"canela, vainilla"
+limon,21,4.77,37,Medio,No,"canela, vainilla"
+pera,89,16.13,71,Bajo,Si,
+chantarelas enlatadas,54,8.29,35,Alto,Si,"leche, huevo"
+jarabe de maiz oscuro,24,12.91,12,Alto,No,
+yemas de huevo crudas,38,4.88,78,Bajo,Si,"canela, vainilla"
+trozos de pina,22,5.48,4,Alto,No,"leche, huevo"
+cacahuates,44,12.38,42,Alto,No,
+vainilla,79,11.37,57,Alto,No,"harina, azucar"
+cafe molido regular,93,9.65,61,Alto,No,"canela, vainilla"
+frambuesas rojas,4,4.19,2,Bajo,Si,
+ensalada de atun,95,1.08,1,Bajo,No,"leche, huevo"
+queso,95,18.98,83,Medio,Si,
+filetes de lenguado,6,11.48,54,Alto,Si,"canela, vainilla"
+arroz de grano corto,87,0.85,88,Bajo,Si,
+canela,45,8.8,54,Alto,Si,"harina, azucar"
+culantro,36,5.81,93,Alto,Si,"harina, azucar"
+gallina,57,14.7,61,Medio,Si,"canela, vainilla"
+cafe preparado,22,18.47,18,Alto,Si,"harina, azucar"
+trozos de tocino,51,2.85,8,Alto,Si,"harina, azucar"
+habas,99,7.29,42,Medio,Si,"canela, vainilla"
+pimienta fresca,81,12.0,14,Alto,Si,"leche, huevo"
+patata,5,8.65,21,Alto,Si,"leche, huevo"
+chocolate amargo,55,10.68,94,Medio,Si,"harina, azucar"
+leche de coco sin azucar,91,12.67,33,Alto,No,"leche, huevo"
+mangos verdes,92,10.35,90,Alto,No,
+vermut blanco seco,97,4.09,95,Bajo,Si,"canela, vainilla"
+tortillas de harina,99,15.22,37,Bajo,No,
+semilla de alcaravea,71,2.03,88,Alto,No,
+green pepper,56,9.69,1,Medio,Si,"canela, vainilla"
+parmesan cheese,47,2.48,94,Alto,Si,"canela, vainilla"
+fresa,31,2.99,86,Bajo,Si,"harina, azucar"
+sal kosher,38,2.16,44,Alto,No,"harina, azucar"
+perejil fresco de hoja plana,81,13.16,85,Bajo,No,"harina, azucar"
+caldo de pollo,53,16.84,17,Medio,No,"leche, huevo"
+avena de hojuelas finas,62,14.81,89,Bajo,No,"harina, azucar"
+jengibre confitado,60,6.05,7,Alto,No,
+harissa,51,13.6,70,Bajo,Si,"leche, huevo"
+crema postreera,50,6.31,75,Medio,Si,"harina, azucar"
+carne de res picada,71,18.65,28,Alto,Si,
+vino tinto,11,1.47,14,Alto,Si,"leche, huevo"
+aguaymanto,84,16.37,13,Medio,No,"canela, vainilla"
+mushroom,84,3.28,13,Bajo,Si,"canela, vainilla"
+pimientos dulces amarillos,68,17.6,24,Medio,Si,"leche, huevo"
+tomates guisados al estilo cajun,84,19.66,46,Medio,Si,"harina, azucar"
+alcohol,94,1.13,63,Medio,No,"harina, azucar"
+puerros,48,2.96,16,Alto,Si,"leche, huevo"
+oregano,15,3.89,25,Medio,Si,
+mantequilla de mani cremosa,65,17.83,74,Medio,Si,"canela, vainilla"
+leche condensada endulzada,75,10.71,69,Medio,No,
+kitchen bouquet,29,8.81,78,Medio,Si,"harina, azucar"
+camote,71,8.8,72,Bajo,Si,"harina, azucar"
+mitad de segundo sin hueso ni piel,3,7.75,39,Medio,Si,"leche, huevo"
+chile amarillo,80,18.5,90,Medio,Si,
+mayonesa,8,3.17,38,Medio,Si,"canela, vainilla"
+jugo de lima,86,16.18,63,Bajo,Si,"canela, vainilla"
+bayas de pimienta de jamaica,98,12.76,8,Alto,Si,"leche, huevo"
+pimienta dulce,89,9.07,19,Alto,Si,"harina, azucar"
+pimienta sazonada de lawry's,17,15.8,58,Medio,Si,"canela, vainilla"
+hojas de perejil fresco,67,6.14,83,Bajo,No,"harina, azucar"
+frijoles cannellini,2,11.73,92,Bajo,Si,"harina, azucar"
+avena tradicional,57,15.74,13,Alto,No,"harina, azucar"
+harina de maiz amarilla,67,13.76,72,Alto,No,"harina, azucar"
+ajo en polvo,8,15.56,42,Bajo,No,"harina, azucar"
+chiles verdes,15,15.63,63,Alto,No,"leche, huevo"
+hamburger,7,18.71,9,Alto,No,"canela, vainilla"
+harina integral,59,2.35,13,Bajo,No,
+dientes de ajo,61,18.0,33,Bajo,Si,"canela, vainilla"
+costra de galletas graham,62,6.0,18,Alto,Si,"harina, azucar"
+chiles serranos,67,11.47,50,Medio,Si,"leche, huevo"
+cayena,55,13.35,15,Bajo,Si,"harina, azucar"
+peras,100,10.21,5,Medio,Si,"leche, huevo"
+pasas de corinto,95,16.19,60,Alto,No,"harina, azucar"
+jugo de lima fresca,71,18.77,51,Alto,Si,
+aceite de nuez,6,17.91,73,Alto,No,"canela, vainilla"
+milk,73,5.82,41,Alto,No,
+salsa chunky,46,4.75,96,Medio,No,"harina, azucar"
+leche de almendras,85,19.89,18,Medio,Si,
+hoja de laurel,17,1.05,46,Bajo,Si,"canela, vainilla"
+jugo de mandarina,26,18.78,15,Bajo,Si,"leche, huevo"
+col china,99,18.55,30,Medio,Si,"harina, azucar"
+jengibre en conserva,74,10.31,6,Bajo,Si,
+sustituto de huevo,85,18.58,65,Medio,Si,
+levadura rapida,67,14.14,31,Alto,No,"canela, vainilla"
+maiz en grano,46,18.16,67,Alto,Si,"leche, huevo"
+queso ricotta,10,2.95,94,Bajo,No,"harina, azucar"
+jarabe de arce oscuro,86,19.35,1,Bajo,No,"harina, azucar"
+arroz minute,67,5.67,18,Alto,Si,
+salsa,6,4.34,60,Bajo,No,"leche, huevo"
+dried sage,10,9.95,57,Medio,No,
+sal de condimento,18,16.63,48,Medio,No,"harina, azucar"
+carne molida magra,14,4.8,73,Medio,No,
+tomillo,16,13.88,64,Medio,No,"leche, huevo"
+polvo de cinco especias chinas,87,0.69,28,Alto,Si,"leche, huevo"
+green beans,19,8.37,91,Medio,Si,
+mantequilla de mani,5,0.9,76,Alto,Si,"canela, vainilla"
+harina para postrees,47,2.75,31,Medio,Si,"canela, vainilla"
+aceite vegetal,48,3.19,15,Alto,No,"leche, huevo"
+coconut,41,2.73,62,Alto,Si,"leche, huevo"
+creme fraiche,2,5.5,8,Bajo,No,"harina, azucar"
+salsa cesar,61,6.54,8,Alto,No,"harina, azucar"
+migas de galleta graham,14,14.84,30,Alto,No,"canela, vainilla"
+tomate miniatura,43,6.35,49,Medio,Si,
+morcilla,33,19.94,37,Bajo,No,"leche, huevo"
+cebollas,96,5.57,18,Alto,No,"leche, huevo"
+papas idaho,65,9.53,93,Medio,No,"leche, huevo"
+mangos,96,15.72,33,Medio,No,"canela, vainilla"
+pimienta molida,41,7.96,77,Medio,Si,
+naranjas sin semillas,1,2.27,33,Medio,No,"harina, azucar"
+brocoli congelado,1,11.37,88,Alto,No,
+pudin instantaneo de pina,9,7.84,27,Medio,No,"leche, huevo"
+chile chimayo en polvo,41,9.75,70,Alto,Si,
+tiras de tortilla,25,1.8,59,Medio,Si,
+tofunaise,3,12.1,8,Medio,Si,"leche, huevo"
+egg,86,13.73,22,Alto,Si,"leche, huevo"
+ramas de canela,4,11.63,71,Alto,Si,
+repollo saboy,59,2.14,85,Bajo,Si,"leche, huevo"
+hierbabuena,53,2.4,100,Bajo,No,"leche, huevo"
+semola de maiz,49,2.15,31,Medio,Si,"harina, azucar"
+hamburguesa vegana,96,12.59,40,Alto,No,"canela, vainilla"
+trozos de pina en jugo,58,7.66,64,Alto,Si,"harina, azucar"
+pepperoni,36,12.13,75,Bajo,Si,"leche, huevo"
+tomates secos,53,6.08,99,Medio,Si,
+caldo de almejas embotellado,97,6.93,42,Bajo,Si,
+white pepper,94,10.04,22,Alto,Si,"leche, huevo"
+flor de sauco,77,7.48,30,Medio,No,"harina, azucar"
+mitad y mitad,77,10.79,64,Medio,No,
+platanos firmes,57,3.14,26,Medio,Si,"leche, huevo"
+harina auto-levante,69,1.42,4,Bajo,Si,
+chorizo,88,9.98,54,Bajo,No,"canela, vainilla"
+craisins,52,9.69,92,Medio,No,"harina, azucar"
+cilantro fresco,44,13.83,46,Bajo,No,"leche, huevo"
+coco angel flake,89,4.57,52,Medio,No,"canela, vainilla"
+carne de pavo asado,91,2.18,53,Bajo,Si,"harina, azucar"
+kiwi,53,19.73,6,Medio,Si,"canela, vainilla"
+romero seco,97,19.87,78,Bajo,Si,
+harina instantanea,73,7.85,25,Bajo,Si,
+ketchup,4,1.1,92,Alto,No,"harina, azucar"
+chiles chipotle secos,97,18.01,71,Medio,No,"canela, vainilla"
+potato,82,4.73,19,Medio,Si,"harina, azucar"
+harina todo uso,87,1.98,47,Medio,No,"canela, vainilla"
+arroz crudo,85,19.11,63,Alto,Si,
+yogurt bajo en grasa,6,8.21,60,Medio,Si,"leche, huevo"
+pimienta negra gruesa,24,16.79,77,Medio,Si,"harina, azucar"
+aguacate,81,0.72,42,Bajo,No,
+cubos de caldo de res,21,10.09,10,Bajo,Si,"leche, huevo"
+clara de huevo,50,2.83,66,Bajo,No,"leche, huevo"
+oregano seco,34,9.97,47,Alto,No,"canela, vainilla"
+avellanas tostadas enteras,82,11.12,94,Bajo,Si,
+aceite de sesamo,50,19.76,16,Medio,Si,
+anis estrellado,16,12.6,55,Bajo,Si,"leche, huevo"
+base de tarta de galleta graham,26,12.58,15,Bajo,No,"harina, azucar"
+velveeta cheese,5,12.58,65,Medio,No,"harina, azucar"
+melaza,75,11.86,66,Medio,No,
+cuscus,30,1.27,98,Bajo,Si,
+guisantes,96,16.85,93,Bajo,No,"harina, azucar"
+espinaca,47,5.81,75,Bajo,No,"canela, vainilla"
+pitahaya,29,9.91,24,Medio,No,
+pasta rotini,73,2.76,54,Bajo,Si,"canela, vainilla"
+vino,55,13.6,50,Bajo,Si,"canela, vainilla"
+pimiento amarillo,79,11.39,21,Bajo,Si,
+papas pequenas nuevas,78,10.39,38,Bajo,Si,
+vinagre balsamico,73,6.91,36,Alto,No,"leche, huevo"
+albaricoques,17,1.46,61,Bajo,Si,"harina, azucar"
+nam pla,77,18.33,67,Bajo,No,
+curcuma molida,98,16.57,35,Alto,Si,
+papas para hornear,100,14.66,49,Alto,No,"leche, huevo"
+mezcla para hornear bisquick,37,6.97,47,Alto,No,
+fruit chutney,62,19.06,52,Bajo,Si,
+huev,74,19.31,97,Bajo,Si,
+fresas frescas,47,9.8,60,Bajo,Si,"canela, vainilla"
+palitos de canela,23,10.93,31,Bajo,No,"leche, huevo"
+queso kasseri,52,10.8,20,Alto,Si,
+tortillas de harina blanca,97,10.75,84,Alto,Si,"canela, vainilla"
+salsa barbacoa,95,2.11,82,Bajo,Si,"leche, huevo"
+naranjas mandarinas,98,15.82,55,Bajo,Si,"leche, huevo"
+carne molida,87,13.32,5,Alto,Si,"leche, huevo"
+col rizada,5,8.19,92,Bajo,Si,
+brown sugar,34,3.38,1,Medio,Si,
+margarina sin grasa liquida,64,19.15,77,Alto,No,"canela, vainilla"
+sombreros de champinon portabella,98,4.33,45,Medio,No,
+fruta confitada,73,1.19,86,Bajo,Si,"canela, vainilla"
+rolled oats,50,0.7,88,Bajo,Si,"leche, huevo"
+caldo de pollo sin grasa,96,19.52,85,Medio,Si,"leche, huevo"
+aguacates,81,11.53,45,Alto,Si,
+azafran,13,15.05,24,Medio,Si,"leche, huevo"
+pure de chipotle enlatado,97,18.51,1,Alto,No,
+vino blanco seco,12,14.82,30,Bajo,No,"leche, huevo"
+comienzo de amistad amish,13,3.89,27,Bajo,Si,"canela, vainilla"
+masa de hojaldre,67,7.39,48,Bajo,No,
+baking powder,54,5.76,88,Medio,No,"harina, azucar"
+te negro,44,2.31,2,Bajo,Si,"leche, huevo"
+requeson sin grasa,7,4.2,84,Bajo,Si,"harina, azucar"
+rucula,82,5.4,33,Medio,Si,
+leche de coco,15,4.01,48,Medio,Si,
+salsa de soya oscura,50,15.88,63,Bajo,Si,"harina, azucar"
+zapallito italiano,18,6.39,71,Medio,No,"harina, azucar"
+anguila,68,16.82,26,Alto,Si,"canela, vainilla"
+polvo de cinco especias,35,7.86,97,Bajo,Si,"harina, azucar"
+cubos de queso cheddar,98,13.5,50,Alto,Si,"leche, huevo"
+semola,6,7.37,92,Medio,Si,
+ron blanco,3,17.62,14,Bajo,No,"canela, vainilla"
+cashew pieces,89,3.08,41,Alto,Si,
+tomatoes,82,1.58,88,Alto,No,"leche, huevo"
+menta,96,6.17,2,Bajo,No,"canela, vainilla"
+ruibarbo,20,15.24,85,Bajo,No,"harina, azucar"
+pina fresca,87,18.02,24,Bajo,Si,"canela, vainilla"
+cebolletas,36,4.52,56,Alto,No,"leche, huevo"
+maiz morado,12,12.54,6,Alto,No,"canela, vainilla"
+plato principal,61,9.29,28,Alto,Si,
+salsa de pescado,15,11.96,38,Bajo,No,"canela, vainilla"
+tocino,28,5.51,50,Medio,No,"canela, vainilla"
+queso crema sin grasa,98,5.68,40,Alto,No,"leche, huevo"
+chirimoya,34,17.44,88,Alto,No,"harina, azucar"
+berros,45,15.4,30,Bajo,Si,"harina, azucar"
+curry vindaloo,18,6.74,5,Bajo,No,
+camarones gigantes,23,5.62,27,Bajo,Si,"harina, azucar"
+pudin de vainilla instantaneo,96,13.92,40,Medio,Si,
+frambuesas frescas,18,11.9,14,Medio,Si,"canela, vainilla"
+ajo fresco,87,2.15,40,Medio,Si,"harina, azucar"
+vainilla natural,47,4.66,83,Alto,No,"canela, vainilla"
+cilantro,48,19.95,58,Bajo,No,"harina, azucar"
+sirope de arce puro,3,10.84,15,Alto,No,
+sal con hierbas,80,8.95,3,Alto,No,
+esparragos,77,8.09,72,Alto,No,"leche, huevo"
+hilos de azafran,48,4.81,99,Bajo,Si,"canela, vainilla"
+menta seca,66,0.54,82,Alto,Si,"leche, huevo"
+brote de bambu,74,4.72,45,Medio,Si,
+ricotta baja en grasa,68,4.64,24,Medio,No,"harina, azucar"
+jugo de limon congelado,42,17.71,10,Alto,Si,"harina, azucar"
+harina para todo uso,49,14.58,84,Medio,Si,"canela, vainilla"
+tomates cherry,86,6.19,51,Bajo,Si,"harina, azucar"
+mermelada de grosella roja,11,3.96,74,Bajo,No,"harina, azucar"
+manzanas para cocinar,80,16.02,82,Bajo,No,
+sebo de res,59,18.48,42,Alto,No,"leche, huevo"
+limones (cascara),90,2.81,87,Bajo,Si,"canela, vainilla"
+salmon ahumado,70,13.94,77,Bajo,No,
+fettuccine,1,13.53,18,Medio,No,"canela, vainilla"
+chile arbol,91,4.05,92,Medio,Si,"harina, azucar"
+cebolla picada,91,0.63,56,Alto,Si,
+pechuga de pavo,7,10.53,56,Bajo,No,
+vino madeira,46,11.37,46,Medio,No,
+papa seca,36,6.65,16,Alto,No,"canela, vainilla"
+parsley,46,18.01,21,Alto,Si,"leche, huevo"
+repollo rojo crudo,35,19.26,72,Bajo,Si,"harina, azucar"
+ramita de perejil,100,1.0,90,Bajo,No,"harina, azucar"
+vinagre de vino blanco,97,8.6,88,Medio,No,"canela, vainilla"
+cayenne pepper,88,13.66,23,Alto,No,
+manzanas rojas crujientes,52,11.41,78,Medio,No,"canela, vainilla"
+salsa bechamel,56,8.97,32,Bajo,Si,"leche, huevo"
+allspice,70,1.39,64,Medio,No,
+yogur,91,15.78,67,Bajo,Si,"harina, azucar"
+jerez medio-seco,96,17.56,64,Medio,Si,"harina, azucar"
+azucar moreno claro,12,1.0,18,Medio,No,"canela, vainilla"
+tocino salado,81,6.21,1,Bajo,No,"canela, vainilla"
+eneldo seco,96,8.32,100,Bajo,Si,
+jugo de limon fresco,95,14.73,84,Alto,Si,"harina, azucar"
+vinagreta,30,11.96,58,Alto,Si,"harina, azucar"
+tamarillos,8,16.35,86,Bajo,No,"canela, vainilla"
+romero,60,18.0,11,Alto,Si,"canela, vainilla"
+tamarindo,10,3.55,78,Alto,Si,"leche, huevo"
+pasta seca,20,2.73,62,Bajo,No,"harina, azucar"
+salchicha italiana de plato principal,86,16.86,56,Medio,Si,"canela, vainilla"
+setas chanterelle,26,5.19,55,Alto,Si,"canela, vainilla"
+caldo de res de fuerza simple,9,17.28,56,Medio,No,"leche, huevo"
+curry verde,34,7.44,94,Medio,Si,
+manteca,97,1.27,48,Medio,No,"canela, vainilla"
+tocino canadiense,95,4.99,28,Medio,Si,"leche, huevo"
+curry,17,18.18,79,Medio,Si,"canela, vainilla"
+salsa de tomate hunts,19,17.67,50,Bajo,No,"leche, huevo"
+cubos de caldo de pollo instantaneo,40,0.57,36,Bajo,No,"harina, azucar"
+zucchini,38,1.42,50,Alto,Si,"canela, vainilla"
+camote (kumara),59,18.05,20,Alto,Si,
+mezcla de pudin de chocolate instantaneo,39,18.04,71,Alto,Si,"harina, azucar"
+leche condensada,8,15.93,71,Bajo,No,
+azucar morena clara,83,15.89,34,Bajo,Si,"harina, azucar"
+yemas de huevo,80,7.55,80,Medio,Si,"leche, huevo"
+ketjap manis,87,16.87,28,Alto,Si,"harina, azucar"
+frijoles navy,81,1.72,90,Bajo,No,"harina, azucar"
+jengibre fresco,24,14.24,83,Alto,No,"canela, vainilla"
+malvaviscos pequenos,67,17.46,42,Alto,Si,"canela, vainilla"
+tapioca,67,4.71,8,Bajo,No,"leche, huevo"
+hierbas frescas a eleccion,39,14.93,72,Alto,Si,"canela, vainilla"
+gaseosa,57,18.36,31,Bajo,No,"leche, huevo"
+jugo de toronja,89,18.59,81,Medio,No,"leche, huevo"
+castanas de agua,88,11.58,23,Medio,Si,"canela, vainilla"
+jugo de limon,41,6.51,50,Alto,No,"harina, azucar"
+pimiento morron,58,15.85,74,Medio,No,
+bacon,48,19.04,21,Alto,Si,"canela, vainilla"
+langostas vivas,87,12.35,19,Medio,No,
+harina de autolevadura,6,16.67,56,Medio,Si,
+cheese,39,13.77,100,Alto,No,"canela, vainilla"
+caballa,13,7.34,82,Medio,Si,
+malvaviscos,35,5.56,90,Bajo,Si,"canela, vainilla"
+lonchas de jamon,60,4.69,7,Bajo,No,"canela, vainilla"
+triple sec,74,14.93,21,Bajo,No,
+repollo savoy,69,0.52,80,Medio,Si,"leche, huevo"
+arandanos,46,10.33,50,Medio,Si,"leche, huevo"
+aceite de oliva espanol,61,0.6,69,Alto,No,"leche, huevo"
+hojuelas de pimienta roja,27,8.65,44,Bajo,Si,
+sandia,15,18.46,6,Alto,No,"leche, huevo"
+jerez seco,50,9.18,98,Bajo,Si,
+atun en agua,21,7.27,43,Alto,No,"harina, azucar"
+uvas verdes,64,4.26,31,Medio,Si,"leche, huevo"
+queso crema bajo en grasa,56,6.22,34,Bajo,Si,"harina, azucar"
+pudin de caramelo,65,10.39,65,Bajo,Si,
+queso cheddar blanco anejo,63,1.29,71,Alto,Si,"canela, vainilla"
+galleta,19,11.66,68,Alto,Si,"leche, huevo"
+queso feta griego,39,3.88,34,Alto,Si,
+azucar blanca,31,15.19,98,Bajo,Si,"leche, huevo"
+cubos de caldo de pollo,52,12.66,94,Bajo,Si,"leche, huevo"
+maiz entero,79,15.95,70,Alto,Si,"leche, huevo"
+frijoles,55,5.92,86,Alto,Si,"harina, azucar"
+cereza,13,13.38,96,Alto,No,"leche, huevo"
+grosella roja fresca,11,0.84,7,Alto,Si,"harina, azucar"
+glutamato monosodico,3,10.24,10,Alto,No,
+guanabana,29,1.16,91,Bajo,No,"leche, huevo"
+curry rogan josh,60,9.62,75,Medio,No,"leche, huevo"
+tilapia,57,5.93,40,Bajo,Si,"leche, huevo"
+pollos de engorde,5,2.06,99,Bajo,Si,"leche, huevo"
+queso monterey jack,65,14.91,90,Medio,No,"canela, vainilla"
+baking soda,29,14.76,53,Medio,Si,"leche, huevo"
+thai red curry paste,32,18.99,14,Bajo,Si,
+nectarinas,89,12.88,83,Alto,Si,"harina, azucar"
+queso cheddar blanco,73,7.12,21,Bajo,No,"leche, huevo"
+grasa de tocino,10,1.13,30,Medio,Si,"canela, vainilla"
+uvas rojas,10,10.06,59,Alto,No,
+vainas de cardamomo negro,38,12.83,84,Alto,No,"harina, azucar"
+pimienta negra fresca,8,4.78,48,Alto,Si,"harina, azucar"
+tomates picados,56,2.33,13,Medio,Si,"harina, azucar"
+carne de pierna de pollo,56,11.41,61,Medio,Si,"harina, azucar"
+salsa adobo,81,18.68,5,Alto,Si,
+coriandro molido,30,6.11,76,Medio,Si,"harina, azucar"
+yogurt,49,15.73,29,Alto,Si,"harina, azucar"
+pechugas de pollo,66,7.38,3,Medio,Si,"harina, azucar"
+chives,50,19.22,80,Bajo,Si,"harina, azucar"
+filetes de lomo de res sin hueso,68,15.81,57,Alto,No,
+cascara de lima,26,12.98,96,Alto,No,"leche, huevo"
+postre de limon,34,14.76,15,Bajo,No,"canela, vainilla"
+salsa picante,74,6.43,34,Alto,No,
+mezcla bisquick,48,15.21,42,Alto,No,"harina, azucar"
+limon,10,1.57,27,Medio,No,"leche, huevo"
+guisantes dulces,2,8.03,35,Medio,Si,"harina, azucar"
+garbanzos,33,18.6,24,Alto,No,"harina, azucar"
+azucar blanco,84,12.23,100,Medio,No,"harina, azucar"
+salsa de tomate con cebolla,17,16.29,33,Alto,No,"harina, azucar"
+calabacin,50,18.51,76,Medio,Si,"harina, azucar"
+filete de salmon,1,17.49,50,Bajo,No,"canela, vainilla"
+leche desnatada,53,11.44,50,Alto,No,"harina, azucar"
+camarones medianos,15,5.97,47,Bajo,No,"leche, huevo"
+water chestnuts,46,2.16,100,Alto,No,
+ralladura de limon fresco,55,17.83,87,Bajo,No,"canela, vainilla"
+pecan halves,16,19.87,75,Medio,No,
+tortillas de harina de 10 pulgadas,37,2.62,97,Medio,Si,"canela, vainilla"
+hamburguesa,36,6.44,45,Alto,Si,"harina, azucar"
+polvo de hinojo,17,15.04,68,Medio,No,
+jarabe de maiz karo,85,3.22,79,Bajo,No,
+filetes de merluza,81,11.35,59,Alto,Si,"leche, huevo"
+pimienta negra molida,14,5.71,99,Medio,No,"harina, azucar"
+alas de pollo,90,7.63,90,Alto,Si,
+mozzarella cheese,43,17.83,41,Medio,Si,"leche, huevo"
+chiles anchos secos,95,5.48,44,Bajo,No,
+mermelada,53,0.87,89,Bajo,No,"leche, huevo"
+cacao en polvo,69,16.75,16,Alto,No,"harina, azucar"
+pimientos de chile,9,14.9,3,Medio,Si,"canela, vainilla"
+tocino ahumado sin corteza,21,17.64,24,Alto,Si,"harina, azucar"
+manzana verde,9,15.02,55,Medio,Si,"canela, vainilla"
+almejas littleneck,73,17.47,84,Medio,Si,"leche, huevo"
+queso cheddar suave,31,2.69,91,Medio,No,"leche, huevo"
+cafe,37,11.21,47,Alto,No,"harina, azucar"
+azucar blanca y morena,11,8.0,3,Medio,Si,
+noilly prat,62,8.75,8,Medio,Si,"harina, azucar"
+cantalupo,90,1.92,30,Bajo,No,"harina, azucar"
+pasta de tomate contadina,77,19.98,83,Alto,Si,"canela, vainilla"
+granos de pimienta negra,6,3.21,59,Alto,No,"harina, azucar"
+tamari,26,18.43,8,Alto,No,"canela, vainilla"
+jamon del pais,58,14.53,42,Alto,No,"canela, vainilla"
+sake japones,90,6.89,29,Alto,No,"canela, vainilla"
+menta fresca,23,9.48,43,Medio,Si,
+harina de uso general,43,15.34,80,Medio,Si,
+sebo vegetal,3,3.81,51,Alto,Si,"harina, azucar"
+filetes de anchoa,14,19.7,64,Bajo,No,"harina, azucar"
+papas,52,15.15,95,Medio,No,"leche, huevo"
+carne de res magra molida,4,4.58,89,Medio,Si,"harina, azucar"
+funghi porcini secos,39,10.77,33,Alto,Si,"canela, vainilla"
+vieiras frescas,66,10.27,48,Bajo,Si,"leche, huevo"
+semillas de comino,68,17.29,10,Alto,No,"canela, vainilla"
+raiz de apio,96,2.0,73,Alto,Si,"leche, huevo"
+levadura para maquina de pan,57,2.1,43,Bajo,No,
+salchicha italiana suave,63,13.59,28,Bajo,No,
+tomates rotel,35,14.54,93,Medio,Si,"canela, vainilla"
+jugo de lima key,56,5.67,70,Medio,No,
+hojas de menta frescas,2,6.81,60,Alto,Si,"harina, azucar"
+masa phyllo,11,2.29,75,Alto,No,"leche, huevo"
+tomates frescos,93,1.65,27,Medio,Si,
+mantequilla de cacahuete,73,4.7,30,Medio,Si,"canela, vainilla"
+aji,22,2.25,47,Medio,No,"harina, azucar"
+frijoles blancos secos,21,0.98,55,Medio,Si,"harina, azucar"
+camarones,51,14.21,19,Alto,No,"leche, huevo"
+pimientos,24,1.72,28,Medio,No,"canela, vainilla"
+queso feta,87,10.08,29,Alto,No,
+pimienta de jamaica,11,14.13,46,Alto,No,"leche, huevo"
+raiz de jengibre,58,0.78,57,Bajo,No,"leche, huevo"
+calabacines,99,7.18,64,Bajo,No,"canela, vainilla"
+aceite de oliva virgen extra,7,17.95,39,Alto,Si,"canela, vainilla"
+repollo napa,13,9.82,29,Bajo,Si,"harina, azucar"
+sal de mesa,30,4.59,68,Alto,Si,"leche, huevo"
+all-purpose flour,38,13.73,58,Alto,Si,"leche, huevo"
+melaza clara,67,8.43,14,Medio,Si,"canela, vainilla"
+judias verdes,32,8.42,74,Medio,Si,"leche, huevo"
+tomates ciruela,55,13.98,7,Alto,Si,
+jugo y ralladura de limon,89,8.98,77,Alto,No,"harina, azucar"
+tortillas de maiz,72,1.33,3,Medio,Si,"harina, azucar"
+harina de trigo todo uso,38,19.78,75,Medio,No,
+polvo de espresso instantaneo,53,15.64,26,Medio,No,
+bistec,80,17.68,89,Medio,Si,"canela, vainilla"
+sustituto de azucar,6,16.21,70,Alto,No,"harina, azucar"
+curry dhansak,94,19.98,99,Alto,No,"harina, azucar"
+frijoles navidenos,69,8.37,7,Alto,Si,"canela, vainilla"
+shortening,5,6.02,46,Bajo,Si,"harina, azucar"
+harina de trigo sin blanquear,9,10.76,81,Alto,No,
+nabos,78,15.24,26,Medio,Si,"canela, vainilla"
+crema agria,93,17.24,15,Medio,Si,"harina, azucar"
+aji panca,64,4.67,46,Alto,No,
+mezcla de pudin instantaneo de limon,77,9.61,64,Bajo,Si,"harina, azucar"
+melaza ligera,6,7.55,24,Medio,Si,"canela, vainilla"
+salsa picante de chile,96,15.39,31,Alto,No,"harina, azucar"
+tomates guisados estilo mexicano con jalapenos,40,2.38,61,Bajo,Si,
+azucar demerara,56,16.87,70,Medio,Si,"canela, vainilla"
+chocolate en trozos,79,2.07,3,Medio,Si,"leche, huevo"
+nata,53,8.19,44,Medio,No,"leche, huevo"
+tofu firme,81,4.98,33,Medio,Si,"leche, huevo"
+chutney de mango,22,1.75,78,Medio,Si,"canela, vainilla"
+hojas de pimiento rojo,67,19.21,88,Medio,Si,
+almidon de maiz,30,6.4,78,Bajo,No,"canela, vainilla"
+pepino,39,16.25,81,Bajo,Si,"canela, vainilla"
+vainas de cardamomo,37,19.51,10,Bajo,No,
+parmesano,13,4.95,48,Medio,Si,
+pimiento,89,2.53,75,Medio,No,"harina, azucar"
+harina de pan de 4 granos,79,13.92,40,Bajo,Si,"leche, huevo"
+ramitas de eneldo,48,12.43,77,Bajo,Si,
+sal fina,87,17.78,23,Alto,No,
+calabaza espagueti,56,3.31,76,Alto,No,"leche, huevo"
+manzanas golden delicious,46,16.69,65,Medio,No,"harina, azucar"
+vegetable shortening,33,8.72,53,Medio,Si,
+cebolla morada,75,7.1,41,Bajo,Si,
+curry amarillo,40,12.53,58,Alto,Si,"leche, huevo"
+levadura para postrees,61,3.81,98,Bajo,No,"leche, huevo"
+repollo verde,20,17.2,19,Medio,No,"leche, huevo"
+pimienta blanca y negra,28,12.13,100,Alto,No,"harina, azucar"
+grasa de pavo,84,17.02,53,Alto,No,
+arroz de grano largo,67,6.18,44,Bajo,No,"canela, vainilla"
+vinagre de arroz,23,4.73,14,Alto,Si,"leche, huevo"
+langosta,39,3.03,77,Alto,Si,"harina, azucar"
+corn,74,4.98,39,Alto,Si,"harina, azucar"
+copos de avena,59,0.77,44,Bajo,No,
+carne de london broil,8,15.73,14,Alto,Si,"canela, vainilla"
+manzana tartar,85,5.73,35,Alto,Si,"leche, huevo"
+pasa dorada,93,3.36,59,Bajo,No,"canela, vainilla"
+arroz integral,2,4.18,20,Alto,No,"leche, huevo"
+mozzarella,47,0.7,57,Bajo,Si,"harina, azucar"
+curry ceylon,61,2.65,15,Medio,Si,
+queso romano,29,7.59,44,Alto,No,"harina, azucar"
+ruibarbo congelado,10,14.36,85,Bajo,Si,"leche, huevo"
+guisantes verdes congelados,33,10.76,44,Alto,No,"harina, azucar"
+vino dulce de postre,81,14.2,66,Alto,Si,
+champinones blancos,30,7.48,21,Medio,No,
+gaseosa de jengibre,55,9.23,3,Alto,Si,
+linguini seco,7,17.5,94,Medio,Si,"leche, huevo"
+coco sin endulzar,6,5.06,49,Bajo,Si,
+cerezas maraschino,89,6.72,95,Bajo,No,
+queso fresco,64,2.83,39,Medio,Si,"canela, vainilla"
+queso gruyere,5,2.82,82,Alto,Si,
+cheddar,27,2.25,39,Alto,Si,"leche, huevo"
+salsa de soja,13,10.81,87,Alto,Si,
+azucar morena,60,4.42,86,Alto,Si,
+agua con gas,9,6.04,56,Medio,Si,"harina, azucar"
+brandy,94,3.8,3,Medio,Si,"leche, huevo"
+honey,26,10.26,58,Alto,No,"leche, huevo"
+albahaca seca,92,9.05,72,Alto,Si,"harina, azucar"
+trigo bulgur,89,11.34,71,Medio,No,"canela, vainilla"
+guisantes verdes,6,7.82,51,Medio,No,
+melon,62,13.91,46,Bajo,No,
+lechuga,43,4.58,31,Alto,No,"canela, vainilla"
+chiles frescos de jalapeno,66,9.57,40,Medio,Si,"leche, huevo"
+minute rice,2,3.01,56,Bajo,No,"harina, azucar"
+hamburguesas de res,25,3.9,22,Medio,Si,"leche, huevo"
+ciruelas,97,11.13,80,Medio,No,"harina, azucar"
+bicarbonato,57,19.63,3,Alto,No,"canela, vainilla"
+zanahoria cruda,43,4.42,23,Bajo,Si,"harina, azucar"
+albahaca fresca,21,3.04,49,Medio,No,"harina, azucar"
+aceituna,41,12.33,59,Bajo,No,"leche, huevo"
+salsa de soja oscura,36,1.48,16,Medio,No,"canela, vainilla"
+mixed spice,70,3.92,82,Bajo,No,"canela, vainilla"
+cardamomo molido,47,14.67,54,Medio,Si,
+vinagre de estragon,40,0.96,3,Medio,Si,"canela, vainilla"
+pollos enteros,38,11.03,58,Bajo,No,
+bourbon,19,14.56,30,Alto,No,"leche, huevo"
+okra congelada,42,9.82,97,Medio,No,"harina, azucar"
+tequila,69,1.89,53,Alto,No,"canela, vainilla"
+ground ginger,40,18.29,40,Bajo,No,"leche, huevo"
+chile habanero,66,16.39,44,Bajo,No,
+remolachas,15,1.56,81,Alto,Si,"harina, azucar"
+langostinos,88,7.42,7,Bajo,Si,
+cebollas rojas,21,15.79,66,Alto,Si,"canela, vainilla"
+hongos porcini,84,6.53,98,Bajo,No,"leche, huevo"
+vermut seco,33,19.78,87,Bajo,No,"harina, azucar"
+mayonesa baja en grasa,100,4.37,9,Alto,Si,"harina, azucar"
+grano de maiz,80,7.68,3,Alto,Si,
+vaina de vainilla,82,14.0,69,Alto,No,"canela, vainilla"
+pure de manzana,9,3.33,95,Medio,Si,"canela, vainilla"
+pasta de orzo,27,9.74,53,Bajo,No,
+gorgonzola,18,9.96,3,Bajo,Si,"leche, huevo"
+maicena,5,11.66,79,Medio,Si,"harina, azucar"
+tortillas de trigo,82,0.89,85,Medio,No,"canela, vainilla"
+aceitunas verdes,90,7.28,77,Medio,Si,"leche, huevo"
+levadura fresca en postre,40,3.09,71,Medio,No,"harina, azucar"
+datiles,17,10.46,22,Alto,Si,
+pimientos (rojo,86,10.84,24,Bajo,No,"leche, huevo"
+salsa de tomate,20,18.86,0,Bajo,No,"leche, huevo"
+aceite de oliva de mejor calidad,52,16.8,51,Medio,No,
+chuleta de cordero,40,11.78,35,Medio,Si,"canela, vainilla"
+postre sin sabor,45,10.63,87,Alto,Si,
+chile rojo,90,16.08,64,Bajo,No,"leche, huevo"
+masa harina,49,14.25,17,Alto,Si,"canela, vainilla"
+oregano,90,13.64,95,Alto,No,"leche, huevo"
+semilla de anis,27,18.99,57,Bajo,No,"harina, azucar"
+lemon zest,98,16.86,84,Medio,Si,"leche, huevo"
+papas crudas,40,11.18,38,Bajo,Si,"canela, vainilla"
+manzanas rojas,82,2.55,8,Alto,No,"canela, vainilla"
+cebollas chinas,47,7.53,96,Bajo,No,"canela, vainilla"
+pure de calabaza,100,14.0,93,Bajo,Si,"harina, azucar"
+durazno,3,16.09,20,Medio,Si,"harina, azucar"
+manzana granny smith,27,12.39,26,Alto,Si,"harina, azucar"
+hongos frescos,61,13.0,32,Bajo,No,"harina, azucar"
+pomelo,2,2.41,15,Medio,Si,"leche, huevo"
+frambuesas rojas frescas,23,17.48,9,Medio,No,"leche, huevo"
+cascara de limon,68,14.84,17,Medio,Si,
+pimienta blanca,38,10.43,32,Medio,Si,
+crema de leche,91,16.47,79,Alto,No,"harina, azucar"
+polvo de mostaza,66,8.35,37,Medio,Si,"canela, vainilla"
+water,45,5.26,16,Alto,Si,"leche, huevo"
+pure de calabaza enlatado,52,10.37,75,Bajo,Si,"leche, huevo"
+chocolate blanco importado,2,7.63,76,Alto,Si,"harina, azucar"
+tomates firmes maduros,42,12.13,55,Medio,No,
+cooked rice,89,3.83,16,Bajo,No,"harina, azucar"
+queso roquefort azul,9,18.15,11,Bajo,No,"leche, huevo"
+malvaviscos miniatura,76,6.1,15,Medio,Si,"canela, vainilla"
+rama de apio,72,4.79,7,Bajo,Si,"harina, azucar"
+calamares,90,3.22,1,Medio,Si,"harina, azucar"
+pasas doradas,65,7.19,48,Medio,No,
+leche evaporada,73,12.64,70,Bajo,Si,
+jarabe de maiz claro,7,4.74,0,Alto,No,"canela, vainilla"
+pescado,92,13.03,30,Alto,Si,
+granadilla,8,1.67,97,Alto,Si,"harina, azucar"
+queso cheddar ahumado,55,6.35,1,Alto,Si,
+pulpo,19,14.98,10,Bajo,No,"canela, vainilla"
+salsa de soja reducida en sodio,6,3.51,89,Bajo,No,"leche, huevo"
+azucar moreno,45,19.72,66,Medio,No,"canela, vainilla"
+hierbas mixtas,60,11.54,48,Bajo,No,"leche, huevo"
+artichoke hearts,65,17.17,54,Alto,Si,"canela, vainilla"
+harina comun sin blanquear,48,14.38,11,Alto,Si,"harina, azucar"
+castana de agua,86,5.66,70,Alto,Si,"harina, azucar"
+leche de coco congelada,98,1.59,67,Medio,No,"canela, vainilla"
+cilantro molido,73,4.81,31,Bajo,No,"canela, vainilla"
+edulcorante liquido,84,5.99,46,Medio,No,
+eneldo fresco y seco,20,2.08,39,Alto,No,
+aceite de oliva,41,15.63,50,Bajo,No,"leche, huevo"
+leche en polvo,13,7.53,14,Bajo,No,"harina, azucar"
+queso cheddar,74,9.37,41,Medio,No,"harina, azucar"
+mostaza en polvo,70,5.71,96,Bajo,No,"canela, vainilla"
+otro edulcorante,88,6.97,62,Alto,Si,"leche, huevo"
+tomates enlatados,76,12.7,39,Bajo,No,"leche, huevo"
+salsa de soya ligera,81,11.33,67,Medio,Si,"canela, vainilla"
+cerezas secas,67,9.31,74,Alto,No,
+levadura de accion rapida,56,10.32,67,Bajo,No,"leche, huevo"
+dry sherry,93,10.4,48,Medio,Si,"leche, huevo"
+carne de res magra,83,6.77,54,Bajo,Si,
+cebolla,34,17.1,100,Medio,Si,"canela, vainilla"
+chocolate semiamargo,4,18.58,10,Alto,Si,"harina, azucar"
+papas russet,63,17.22,62,Medio,Si,"harina, azucar"
+vieiras,57,18.96,18,Bajo,No,
+ciruelas pasas,45,13.24,27,Medio,No,"harina, azucar"
+pecho de res,53,9.08,15,Bajo,No,"canela, vainilla"
+zapallo,7,19.17,56,Alto,No,"leche, huevo"
+tomillo seco,49,11.37,55,Medio,No,"harina, azucar"
+pimiento verde,30,6.19,52,Alto,No,"canela, vainilla"
+grosellas secas,62,10.63,62,Medio,Si,"leche, huevo"
+ralladura y jugo de lima,72,9.01,70,Bajo,No,
+tomates enlatados enteros,96,14.43,10,Medio,Si,"canela, vainilla"
+papa para hornear,72,12.59,97,Alto,Si,"canela, vainilla"
+coctel de jugo de arandano,10,3.61,84,Bajo,No,"harina, azucar"
+pierna de pollo,91,11.88,8,Bajo,No,"harina, azucar"
+especias de cinco,26,19.47,38,Alto,No,"leche, huevo"
+caldo de pescado,81,14.3,23,Bajo,No,"canela, vainilla"
+frijoles navales,72,8.02,89,Alto,No,"leche, huevo"
+salsa de yogur,86,13.82,9,Alto,No,"canela, vainilla"
+polvo de cebolla,4,4.41,29,Alto,Si,
+pechugas de pollo deshuesadas y sin piel,79,14.69,57,Alto,Si,
+soja baja en sodio,86,12.51,24,Bajo,No,"leche, huevo"
+hierbas,30,5.2,38,Alto,No,"canela, vainilla"
+rosbif enrollado,57,8.53,27,Alto,No,"harina, azucar"
+salmon,65,9.18,92,Bajo,Si,
+mariscos,20,0.71,67,Alto,Si,"leche, huevo"
+ladyfingers (bizcochos de savoiardi),79,9.34,39,Bajo,Si,"harina, azucar"
+pimienta negra triturada,62,10.31,20,Bajo,Si,"leche, huevo"
+manteca batida,6,15.4,43,Bajo,Si,
+salsa de soja baja en sodio,56,6.68,16,Medio,No,"harina, azucar"
+camarones pequenos frescos,65,8.52,94,Medio,No,
+rabanos,92,2.32,92,Bajo,No,"leche, huevo"
+salsa de chile picante,23,13.05,65,Bajo,Si,"harina, azucar"
+hojas de laurel,31,19.96,90,Bajo,No,"harina, azucar"
+segundo sin hueso ni piel,64,12.79,99,Bajo,No,"canela, vainilla"
+msg,73,5.99,28,Bajo,Si,
+chucrut,64,6.73,75,Alto,Si,
+jarabe dorado,34,17.52,7,Alto,Si,"leche, huevo"
+brotes de soja frescos,5,2.91,96,Alto,Si,
+cream cheese,79,6.38,70,Alto,No,"leche, huevo"
+hojas de espinaca cruda,32,16.58,51,Bajo,No,"harina, azucar"
+rabano,43,5.02,48,Medio,No,"leche, huevo"
+mermelada de naranja,9,8.0,43,Medio,Si,"harina, azucar"
+apionabo,69,13.22,54,Bajo,No,"harina, azucar"
+mejorana seca,11,16.58,28,Bajo,No,"harina, azucar"
+cebollinos secos,95,11.12,76,Alto,No,
+envoltura de wonton,98,8.84,83,Medio,No,"leche, huevo"
+hojas de albahaca secas,20,12.0,63,Medio,No,"leche, huevo"
+jerez medio,81,19.61,31,Medio,No,
+caldo de res,98,3.67,64,Bajo,No,"canela, vainilla"
+pasta de anchoa,22,11.12,100,Alto,No,"leche, huevo"
+corazon de res,33,2.33,57,Alto,Si,
+cebollinos frescos,28,9.49,43,Medio,No,
+uvas sin semillas,95,7.96,94,Alto,No,"harina, azucar"
+curry jalfrezi,87,19.7,0,Bajo,No,"leche, huevo"
+picatostes,9,17.46,38,Alto,Si,"leche, huevo"
+huevos duros,30,16.26,100,Bajo,Si,
+manzana roja,60,0.96,61,Bajo,No,
+aceite de canola,78,19.88,8,Alto,Si,"harina, azucar"
+carne de res silverside,73,4.86,42,Bajo,Si,
+granulated sugar,74,7.77,25,Bajo,Si,
+arandanos frescos,61,10.11,70,Medio,Si,"canela, vainilla"
+frejoles,1,3.93,95,Alto,No,"leche, huevo"
+cacahuetes salados,62,0.76,56,Medio,Si,"harina, azucar"
+pastis,94,1.85,31,Alto,Si,
+pimienta de curry,94,11.73,66,Alto,Si,
+cabrito,72,5.43,83,Alto,Si,"canela, vainilla"
+vino jerez,3,6.06,35,Bajo,No,"harina, azucar"
+diente de ajo,69,2.29,80,Bajo,No,"leche, huevo"
+rind of,72,19.55,42,Bajo,No,
+miel de chancaca,91,12.66,30,Alto,Si,"leche, huevo"
+quinoa,38,4.24,54,Alto,Si,"canela, vainilla"
+cebolla china,18,10.82,66,Bajo,No,"leche, huevo"
+cinnamon,21,5.48,8,Medio,No,"leche, huevo"
+vinagre de sidra,22,7.44,36,Bajo,Si,"harina, azucar"
+levadura,95,18.45,75,Medio,No,
+uvas,84,8.97,96,Medio,No,
+sharp cheddar cheese,19,6.87,89,Medio,No,"leche, huevo"
+papas fritas,39,10.4,97,Alto,Si,"leche, huevo"
+maiz en grano entero,47,18.82,69,Alto,No,
+plato principal a la barbacoa,50,10.68,96,Alto,Si,"canela, vainilla"
+salsa de chile china,19,14.84,55,Bajo,No,
+vinagre,94,17.79,1,Medio,Si,"leche, huevo"
+marsala,99,17.22,96,Alto,No,"harina, azucar"
+queso mozzarella,29,6.69,84,Alto,No,
+queso cottage,61,17.64,1,Medio,Si,
+tomate roma,35,16.51,19,Bajo,Si,
+granos de pimienta negra enteros,72,19.45,46,Alto,Si,"leche, huevo"
+queso fontina danes,32,1.46,7,Bajo,Si,"harina, azucar"
+agua tibia,41,16.65,97,Bajo,No,"harina, azucar"
+pepino ingles,14,17.26,54,Alto,Si,"harina, azucar"
+clavo,67,5.77,12,Bajo,No,"canela, vainilla"
+hinojo,53,15.86,86,Bajo,No,"leche, huevo"
+mostaza de dijon,96,11.64,16,Alto,Si,"harina, azucar"
+polvo de hornear doble accion,35,11.99,49,Medio,No,"canela, vainilla"
+suero de leche bajo en grasa,68,1.02,12,Bajo,Si,"leche, huevo"
+perejil de hoja plana,61,3.15,95,Bajo,Si,
+pechugas de pollo sin hueso,73,18.97,28,Alto,Si,"harina, azucar"
+azucar moreno oscuro,91,15.21,27,Alto,Si,
+filetes de solomillo de res,55,15.81,33,Alto,Si,
+avena fina,33,5.27,56,Medio,Si,"leche, huevo"
+camaron,33,10.95,32,Bajo,Si,"harina, azucar"
+ruibarbo fresco,14,12.73,72,Medio,Si,"harina, azucar"
+higado de res,80,5.68,100,Alto,Si,"leche, huevo"
+salchicha campestre,68,4.53,45,Bajo,No,"harina, azucar"
+queso pecorino romano,87,7.73,28,Bajo,Si,"harina, azucar"
+hierba de limon fresca,27,3.37,41,Alto,No,
+hojas de hierbas frescas variadas,85,11.89,35,Medio,Si,"harina, azucar"
+bagre,18,18.94,91,Medio,Si,"leche, huevo"
+clavos de olor,100,1.2,15,Medio,No,
+arvejas,66,19.74,92,Alto,No,"canela, vainilla"
+especias mixtas,84,5.65,63,Bajo,No,"canela, vainilla"
+bistec de falda,77,2.28,89,Medio,No,"canela, vainilla"
+humitas,99,14.9,23,Medio,No,"canela, vainilla"
+repollo,66,19.59,94,Bajo,No,
+cognac,59,14.66,18,Bajo,Si,"canela, vainilla"
+zapallito,76,2.66,83,Alto,Si,"canela, vainilla"
+cebolla roja,44,15.17,65,Alto,Si,"canela, vainilla"
+queso crema,21,15.42,70,Alto,No,
+jarabe de goma,63,3.46,23,Alto,Si,"canela, vainilla"
+levadura seca,66,3.96,8,Bajo,Si,"canela, vainilla"
+condimentos accent,51,17.75,52,Bajo,Si,"leche, huevo"
+cebollas de primavera,34,19.27,69,Alto,No,"canela, vainilla"
+short-grain rice,41,2.69,36,Bajo,No,
+manzanas granny smith,19,11.65,1,Medio,Si,
+masa de hojaldre congelada,62,1.55,76,Alto,Si,"leche, huevo"
+papa,85,1.37,17,Bajo,Si,"canela, vainilla"
+chile en polvo suave,24,7.18,20,Alto,Si,"leche, huevo"
+boneless chicken breast,78,9.41,4,Medio,Si,"harina, azucar"
+salchicha,27,1.18,28,Bajo,Si,"leche, huevo"
+verde),12,2.96,74,Bajo,No,
+rocoto,4,17.25,20,Bajo,Si,
+segundo deshuesada,59,17.13,5,Medio,No,"leche, huevo"
+levadura comprimida fresca,74,4.68,93,Bajo,Si,"canela, vainilla"
+hierbas frescas,26,1.94,15,Medio,Si,"harina, azucar"
+repollo morado y verde,97,20.0,33,Alto,No,"harina, azucar"
+head lettuce,67,13.35,22,Bajo,No,
+aceitunas negras,76,1.1,9,Alto,No,"canela, vainilla"
+tortilla,99,4.81,42,Bajo,No,"canela, vainilla"
+leche condensada azucarada,19,14.16,51,Alto,Si,"leche, huevo"
+leche de coco sin endulzar,68,1.74,82,Alto,Si,
+harina para pan,86,14.81,48,Bajo,No,
+brotes,41,7.46,38,Medio,Si,"leche, huevo"
+ajo preparado en aceite,26,7.29,21,Bajo,No,"canela, vainilla"
+ensalada de salmon,61,12.39,68,Bajo,Si,"harina, azucar"
+chiles,73,7.68,66,Bajo,Si,"canela, vainilla"
+savoiardi (galletas italianas),14,19.79,35,Bajo,Si,"harina, azucar"
+hojas de albahaca,7,4.31,14,Bajo,Si,"leche, huevo"
+jerez,99,19.66,35,Bajo,No,"harina, azucar"
+mezcla para pudin de chocolate,4,10.66,8,Medio,Si,"harina, azucar"
+aceite de oliva extra virgen,78,17.37,52,Medio,Si,"leche, huevo"
+pimiento rojo,72,9.0,98,Bajo,Si,"canela, vainilla"
+carambola,59,16.42,65,Alto,No,"harina, azucar"
+mostaza dijon,64,13.63,91,Alto,Si,"leche, huevo"
+lowfat mozzarella cheese,18,7.66,57,Alto,No,"harina, azucar"
+ron,18,18.33,69,Bajo,No,"canela, vainilla"
+azucar en polvo,85,3.28,55,Bajo,Si,
+catsup,51,19.55,81,Medio,Si,"canela, vainilla"
+estragon fresco,89,6.28,94,Bajo,Si,"harina, azucar"
+fideos de trigo sarraceno,91,10.93,30,Bajo,No,"leche, huevo"
+ajonjoli,34,4.8,96,Bajo,No,
+grits de coccion rapida,72,13.18,5,Bajo,Si,"leche, huevo"
+harina de pan,1,4.27,47,Medio,Si,
+curry bhuna,58,2.28,77,Bajo,Si,"leche, huevo"
+pechugas de pollo sin piel y deshuesadas,45,5.23,26,Bajo,Si,
+arandano,30,6.99,85,Medio,Si,
+canonigos,18,2.08,9,Medio,No,
+cafe fuerte,48,2.18,97,Alto,No,"leche, huevo"
+cabeza de coliflor,54,19.63,11,Medio,No,"harina, azucar"
+ron oscuro meyer's,77,14.93,69,Alto,Si,"harina, azucar"
+codillos de jamon,78,2.55,98,Alto,No,"leche, huevo"
+caldo,9,9.06,43,Alto,Si,
+mayonesa hellmann's,84,2.07,28,Alto,No,"leche, huevo"
+tabasco,60,7.93,26,Bajo,No,
+pimienta con limon,61,14.2,70,Bajo,Si,
+cebollin,50,0.54,82,Alto,Si,"harina, azucar"
+espinaca fresca,15,3.47,92,Alto,No,"harina, azucar"
+pollitos,97,6.71,65,Alto,No,"harina, azucar"
+ketchup,42,8.67,66,Medio,No,
+champinones boton marrones,37,1.71,22,Alto,No,"harina, azucar"
+tortillas de harina de 8 pulgadas,78,17.85,29,Bajo,No,"harina, azucar"
+vinagre de manzana,72,8.82,60,Bajo,Si,"canela, vainilla"
+cocona,82,4.16,67,Bajo,No,"leche, huevo"
+arvejas mange-tout,48,9.46,16,Bajo,Si,
+salchichas,29,5.8,9,Medio,No,"harina, azucar"
+shiitake,58,17.1,29,Bajo,No,
+harina de alforfon,59,9.48,98,Bajo,No,
+swiss cheese,55,8.42,72,Medio,No,"canela, vainilla"
+salsa hoisin,60,0.62,68,Bajo,No,
+lemon juice,70,4.25,19,Medio,Si,"leche, huevo"
+partes superiores de cebollin,88,2.46,57,Alto,Si,"leche, huevo"
+pimienta inglesa,80,17.21,3,Medio,No,
+chiles rojos,65,18.84,89,Medio,No,"leche, huevo"
+hojas frescas de sorrel,11,6.52,23,Bajo,Si,"leche, huevo"
+filete de res sin hueso,34,6.03,40,Medio,No,"leche, huevo"
+margarina ligera,81,18.28,58,Alto,No,"canela, vainilla"
+yogur sin grasa,96,18.99,8,Alto,Si,"canela, vainilla"
+crema fresca,29,5.27,9,Medio,No,
+albahaca fresca y seca,80,2.4,6,Bajo,Si,
+soy sauce,69,12.63,38,Medio,No,"harina, azucar"
+pimienta,27,9.43,13,Medio,No,"canela, vainilla"
+sardinas,90,3.61,68,Alto,Si,"leche, huevo"
+cafe muy fuerte,26,4.71,63,Alto,Si,
+queso cheddar blanco fuerte,70,15.79,33,Medio,Si,
+cereza maraschino,26,15.92,20,Alto,Si,"harina, azucar"
+crema de tartaro,82,7.0,75,Alto,No,"leche, huevo"
+vermu,55,17.38,81,Medio,Si,"harina, azucar"
+falda de res,33,19.4,76,Alto,No,
+hojas de tomillo secas,22,19.41,92,Bajo,No,"canela, vainilla"
+aceite,78,10.23,67,Bajo,Si,
+cerveza,13,7.51,61,Bajo,Si,"leche, huevo"
+requeson bajo en grasa,85,4.0,25,Bajo,No,"leche, huevo"
+linguini,25,14.87,81,Medio,Si,"canela, vainilla"
+puerro,85,14.16,69,Bajo,No,"leche, huevo"
+grasa,65,6.17,0,Bajo,No,
+lentejas,70,15.51,27,Alto,No,
+filetes de pollo,43,6.41,23,Alto,Si,
+tofu sedoso bajo en grasa,1,11.62,51,Medio,No,"canela, vainilla"
+jengibre cristalizado,51,15.52,52,Medio,Si,"leche, huevo"
+jengibre,79,14.71,21,Bajo,No,
+chalota,47,13.08,56,Alto,No,"canela, vainilla"
+cascara de naranja,50,12.33,95,Bajo,No,"leche, huevo"
+harina de autoleudante,87,15.05,49,Medio,No,"canela, vainilla"
+naranja,39,9.4,39,Alto,Si,"canela, vainilla"
+cebada perla de coccion rapida,4,3.53,56,Medio,No,"harina, azucar"
+frambuesas congeladas,90,8.47,21,Medio,No,"leche, huevo"
+carne de res extra magra,51,6.56,36,Alto,No,"canela, vainilla"
+calabaza,80,10.69,28,Medio,Si,"leche, huevo"
+pan,92,3.66,12,Alto,Si,"leche, huevo"
+semillas de apio,95,9.16,34,Medio,Si,
+brotes de alfalfa,87,19.62,93,Alto,No,"canela, vainilla"
+hinojo silvestre,34,19.09,45,Bajo,No,"leche, huevo"
+hojas de tomillo seco,27,0.76,39,Medio,No,
+mamey,40,18.66,25,Bajo,Si,"canela, vainilla"
+betabeles,78,12.9,48,Medio,Si,"canela, vainilla"
+masa,54,15.65,31,Bajo,Si,"canela, vainilla"
+caldo de pollo enlatado,4,11.24,9,Alto,No,"canela, vainilla"
+pimienta verde,34,6.12,44,Medio,No,"canela, vainilla"
+champinones portabella,7,17.18,67,Bajo,Si,
+carne de res,47,10.96,20,Medio,No,"harina, azucar"
+hojuelas de menta secas,86,5.93,12,Bajo,Si,"canela, vainilla"
+pasta de curry,68,19.79,22,Medio,Si,
+harina para postre,93,11.72,42,Bajo,No,"leche, huevo"
+caldo claro,10,10.24,46,Bajo,No,"harina, azucar"
+vodka,40,3.96,49,Medio,No,"canela, vainilla"
+lomo de plato principal sin hueso,79,9.58,49,Medio,No,"harina, azucar"
+harina de maiz masa,44,13.41,33,Medio,Si,
+semillas de alcarraza,80,18.69,58,Alto,Si,"canela, vainilla"
+pecanas,6,17.04,66,Alto,Si,"leche, huevo"
+jugo de naranja,58,3.17,99,Bajo,Si,
+repollo chino,63,2.54,57,Bajo,Si,
+lenteja roja,39,1.09,91,Medio,No,
+margarina sin grasa solida,90,18.38,76,Bajo,Si,"canela, vainilla"
+camotes,38,5.9,31,Alto,No,"canela, vainilla"
+pimenton,64,7.22,22,Medio,No,"leche, huevo"
+datiles negros,39,15.06,28,Bajo,No,"leche, huevo"
+cebollas picantes,47,12.67,88,Medio,No,"leche, huevo"
+champinones blancos frescos,71,14.93,54,Medio,Si,
+res,90,12.6,92,Medio,No,"leche, huevo"
+crema,58,5.89,53,Medio,No,"canela, vainilla"
+cremor tartaro,32,0.89,67,Medio,No,"canela, vainilla"
+harina blanca sin blanquear,62,12.28,70,Medio,No,"harina, azucar"
+postre,70,1.43,93,Medio,No,"harina, azucar"
+batatas,93,5.11,79,Alto,Si,"harina, azucar"
+conac,76,10.03,4,Bajo,No,"harina, azucar"
+chicharos,30,16.29,97,Alto,No,"leche, huevo"
+crema agria baja en grasa,72,14.42,61,Bajo,No,"canela, vainilla"
+crema agria 20%,16,9.06,53,Bajo,No,"leche, huevo"
+pargo rojo,68,2.48,86,Medio,Si,
+cerezas queen anne,82,14.39,86,Bajo,No,"harina, azucar"
+margarina regular,45,13.33,33,Medio,No,"canela, vainilla"
+caldo de verduras,22,7.6,65,Alto,Si,"canela, vainilla"
+mandarina,45,14.95,7,Bajo,No,"leche, huevo"
+pasta rigatoni,67,2.81,54,Bajo,Si,"leche, huevo"
+maracuya,78,13.58,49,Bajo,No,"harina, azucar"
+pimenton hungaro dulce,41,11.04,43,Medio,No,"canela, vainilla"
+fresh spinach,85,19.25,46,Bajo,No,"leche, huevo"
+cornstarch,26,15.35,3,Medio,Si,"harina, azucar"
+clavos de olor enteros,49,18.19,50,Alto,Si,
+tomillo fresco,81,13.99,33,Bajo,No,
+vino blanco de uva,41,12.88,49,Alto,No,"harina, azucar"
+jugo de tomate,54,5.99,19,Medio,No,"leche, huevo"
+pasta,53,3.23,38,Bajo,No,"harina, azucar"
+pechugas de pollo sin piel,33,16.54,3,Medio,No,
+fresas congeladas,83,16.8,89,Medio,No,"harina, azucar"
+ralladura de lima,92,2.78,16,Bajo,No,
+vinagre de vino tinto,86,19.38,38,Medio,No,
+champinones,85,7.42,36,Bajo,Si,
+yogurt natural,46,11.27,56,Alto,Si,"canela, vainilla"
+avena rapida,10,9.43,32,Bajo,Si,"harina, azucar"
+bizcochos,29,10.83,71,Medio,Si,"leche, huevo"
+nuez moscada molida,86,14.14,70,Bajo,No,"canela, vainilla"
+nueces de pecan,51,13.37,56,Medio,Si,"leche, huevo"
+pollo crudo,46,17.15,14,Bajo,No,"harina, azucar"
+pasta ziti,26,9.51,45,Bajo,No,"harina, azucar"
+semillas de chia,31,1.05,2,Bajo,No,"canela, vainilla"
+rodajas de limon,11,0.52,47,Bajo,Si,"leche, huevo"
+eneldo,48,15.31,26,Medio,Si,"canela, vainilla"
+pasta de almendras,77,12.29,5,Bajo,Si,
+carne de plato principal molida,75,19.33,66,Bajo,Si,
+crema agria sin grasa,23,19.1,20,Medio,Si,"canela, vainilla"
+beef sirloin steaks,78,6.21,42,Bajo,No,"canela, vainilla"
+escarola,71,13.97,77,Bajo,Si,"leche, huevo"
+edulcorante,9,13.87,48,Alto,Si,"harina, azucar"
+cabeza de apio,5,9.77,100,Alto,No,"leche, huevo"
+salsa de ostras,62,11.55,23,Alto,No,"leche, huevo"
+vainitas,71,17.16,8,Medio,Si,
+leche evaporada carnation,100,6.92,47,Medio,Si,"harina, azucar"
+macis,75,2.42,18,Medio,No,
+filete de redondo de res,49,4.14,62,Bajo,Si,
+(faltan ingredientes en la fuente original),73,9.37,36,Bajo,No,"canela, vainilla"
+brotes de bambu,55,2.66,65,Alto,Si,"canela, vainilla"
+tortillas,4,8.12,65,Medio,Si,
+pan molido,87,6.22,44,Bajo,No,"harina, azucar"
+pina sin endulzar,27,3.47,56,Alto,No,"canela, vainilla"
+pan rallado de pepperidge farm,14,17.69,21,Bajo,Si,"leche, huevo"
+queso cheddar fuerte,15,4.17,91,Medio,No,
+achicoria,64,10.14,32,Bajo,No,"leche, huevo"
+ginger ale,85,12.53,45,Alto,Si,"harina, azucar"
+pechugas de pollo sin hueso y sin piel,1,17.95,16,Alto,No,"harina, azucar"
+filetes de halibut,14,2.0,70,Medio,No,
+chile en polvo picante,74,11.94,5,Medio,Si,"leche, huevo"
+avena,61,13.98,93,Alto,Si,"leche, huevo"
+chile en polvo,15,8.64,88,Alto,Si,"harina, azucar"
+queso cheddar bajo en grasa,95,3.85,56,Medio,Si,"canela, vainilla"
+polvo de hornear de accion doble,93,6.47,47,Medio,No,"canela, vainilla"
+mayonesa vegana,75,17.3,90,Alto,Si,"harina, azucar"
+maiz,3,19.29,7,Bajo,No,"harina, azucar"
+otro repollo de hoja verde suelta,8,1.93,6,Medio,No,"canela, vainilla"
+ahi,85,19.11,53,Medio,No,"canela, vainilla"
+chalotas,71,9.23,53,Medio,No,
+cornflour,26,3.22,96,Alto,No,"canela, vainilla"
+bechamel,57,15.83,64,Medio,Si,"leche, huevo"
+chile,86,11.73,26,Medio,No,"leche, huevo"
+col,5,4.07,94,Bajo,No,
+leche de coco baja en grasa,56,14.21,56,Medio,Si,"leche, huevo"
+harina autoleudante,54,6.47,52,Bajo,No,"canela, vainilla"
+(sin datos),70,3.95,54,Medio,No,"canela, vainilla"
+papayas,83,4.39,84,Medio,Si,"leche, huevo"
+harina blanca para pan,69,7.73,7,Medio,No,"harina, azucar"
+leche en polvo descremada,20,16.43,50,Bajo,No,"leche, huevo"
+hierba fresca,27,14.53,31,Alto,Si,"canela, vainilla"
+pechugas de pollo deshuesadas,89,17.29,0,Bajo,No,"leche, huevo"
+brotes de frijol frescos,1,16.35,57,Bajo,No,"harina, azucar"
+oyster sauce,9,12.68,63,Alto,Si,"leche, huevo"
+leche 1 % baja en grasa,98,3.04,39,Alto,No,"canela, vainilla"
+albahaca,10,15.1,0,Bajo,Si,"canela, vainilla"
+albaricoque fresco,95,11.57,1,Bajo,Si,"leche, huevo"
+red wine,63,16.41,1,Medio,No,
+mostaza estilo dijon,100,10.74,59,Bajo,Si,
+chocolate,15,14.3,93,Alto,Si,"harina, azucar"
+cafe filtrado,68,12.21,35,Alto,No,"leche, huevo"
+azucar granulada,61,17.44,3,Alto,No,"canela, vainilla"
+natillas,46,2.72,17,Bajo,No,"leche, huevo"
+endivias,87,2.83,78,Medio,Si,"leche, huevo"
+mitades de segundo sin hueso y sin piel,20,0.94,26,Alto,No,"canela, vainilla"
+cerveza negra,14,2.28,43,Alto,No,"leche, huevo"
+mayonesa sin grasa,42,19.27,75,Alto,Si,"leche, huevo"
+tomates guisados,73,11.03,15,Bajo,Si,"harina, azucar"
+jarabe de arce,100,4.49,94,Medio,Si,"canela, vainilla"
+vino blanco,13,7.75,65,Bajo,No,"harina, azucar"
+pechuga de pollo deshuesada,78,18.54,82,Alto,Si,"harina, azucar"
+(sin ingredientes registrados),92,2.33,73,Alto,No,"harina, azucar"
+especias para tarta de calabaza,64,5.57,33,Bajo,No,"canela, vainilla"
+harina de todo uso,68,5.78,35,Alto,No,
+pan frances,47,4.41,84,Alto,No,"harina, azucar"
+pistachos asados,50,1.95,74,Bajo,No,"canela, vainilla"
+hojas de espinaca fresca,70,15.25,55,Medio,No,"leche, huevo"
+pina triturada,2,1.22,2,Alto,Si,
+espinacas,66,4.94,48,Bajo,No,"harina, azucar"
+frozen english peas,8,15.52,72,Alto,Si,
+azucar comun,57,13.49,82,Bajo,Si,"canela, vainilla"
+chile jalapeno,91,8.86,37,Alto,No,"leche, huevo"
+nuez de california,69,9.83,87,Alto,Si,"harina, azucar"
+carne de nuez,51,18.03,24,Alto,Si,
+rodaja de pina,46,1.59,62,Alto,No,
+setas porcini,97,9.31,11,Bajo,Si,"harina, azucar"
+mezcla para bizcochos,70,3.94,93,Medio,Si,"leche, huevo"
+helado de vainilla sin grasa,38,14.13,62,Alto,No,"canela, vainilla"
+germen de trigo,45,17.51,70,Bajo,Si,"leche, huevo"
+agua de azucar,54,4.94,89,Alto,Si,"canela, vainilla"
+merengue,1,12.39,97,Alto,Si,
+rollo de salchicha de cerdo,76,8.03,99,Alto,No,"leche, huevo"
+barra de chocolate aleman,58,10.96,16,Alto,Si,
+moras,93,16.06,89,Alto,Si,"leche, huevo"
+granos de maiz congelados,51,13.86,50,Medio,No,"canela, vainilla"
+asado enrollado de res,36,17.14,42,Alto,No,"harina, azucar"
+levadura para pan de maquina,69,19.4,12,Medio,Si,"harina, azucar"
+tabletas campden,98,13.07,96,Bajo,Si,"harina, azucar"
+pechuga de res,21,15.05,89,Medio,No,
+hojuelas de pimienta roja triturada,99,14.33,52,Bajo,Si,"canela, vainilla"
+arroz para pudin,44,18.38,30,Medio,No,"harina, azucar"
+salsa de tomate contadina,96,10.72,49,Alto,No,"leche, huevo"
+pinones,70,9.5,5,Medio,Si,"canela, vainilla"
+queso azul roquefort,86,17.02,62,Bajo,Si,
+amargo de angostura,44,9.66,38,Bajo,No,"harina, azucar"
+arroz arborio,69,14.07,68,Medio,No,"canela, vainilla"
+jengibre en polvo,67,1.91,52,Bajo,No,"harina, azucar"
+cangrejo,81,5.76,90,Bajo,Si,"harina, azucar"
+mitades de pacanas,36,3.88,9,Medio,Si,"leche, huevo"
+extracto puro de vainilla,8,11.94,37,Medio,Si,
+pomelos,69,13.69,57,Bajo,Si,"leche, huevo"
+cordero,87,8.94,88,Bajo,No,
+mezcla para galletas,64,11.81,72,Bajo,No,"canela, vainilla"
+coliflor,67,1.18,60,Bajo,Si,
+ciruela,92,6.54,89,Bajo,No,"canela, vainilla"
+pernod,91,18.45,24,Medio,No,
+vino marsala,62,17.41,21,Medio,Si,"leche, huevo"
+carne de cangrejo jumbo,62,6.12,64,Medio,Si,
+galletas,94,18.54,46,Bajo,No,"leche, huevo"
+levadura en polvo,70,6.52,98,Alto,No,"canela, vainilla"
+sabor a hierba luisa,12,5.72,58,Medio,Si,
+mantequilla,93,16.73,70,Bajo,Si,"harina, azucar"
+mostaza francesa,47,12.39,32,Bajo,No,
+carne magra de res,74,12.03,82,Medio,No,
+polvo de ajo,16,2.99,61,Bajo,Si,"leche, huevo"
+queso suizo,52,16.23,99,Medio,Si,
+leche enlatada,88,13.75,85,Medio,No,"canela, vainilla"
+jamon,45,1.83,20,Bajo,Si,"harina, azucar"
+alcaparras,19,4.44,49,Medio,Si,
+mermelada de mango,92,13.74,84,Bajo,No,"harina, azucar"
+crema de coco,50,12.5,4,Alto,Si,"leche, huevo"
+tocino sin ahumar,55,4.13,12,Alto,Si,
+te verde,89,15.75,94,Bajo,No,
+mejillones,76,7.47,45,Alto,No,"harina, azucar"
+tomates picados con chiles verdes,85,18.66,98,Alto,Si,"canela, vainilla"
+buttermilk,20,12.32,99,Medio,Si,"harina, azucar"
+chile verde,16,11.15,31,Alto,Si,"harina, azucar"
+malvaviscos en miniatura,80,16.29,51,Medio,Si,"harina, azucar"
+levadura comprimida activa,72,19.05,23,Medio,No,"canela, vainilla"
+otro brandy,40,4.76,0,Alto,No,"leche, huevo"
+coles de bruselas,71,1.49,57,Bajo,Si,"harina, azucar"
+guayaba,73,9.96,86,Alto,No,"harina, azucar"
+comino molido,36,4.51,58,Medio,Si,"leche, huevo"
+ajo instantaneo,37,14.51,63,Bajo,Si,"harina, azucar"
+vieira de bahia,20,17.33,74,Alto,No,"leche, huevo"
+vino de arroz,27,18.97,13,Alto,Si,"leche, huevo"
+hard-boiled eggs,69,5.56,54,Bajo,No,"canela, vainilla"
+chiles rojos picantes,31,0.95,72,Alto,Si,"harina, azucar"
+queso parmesano seco,39,12.57,43,Medio,Si,
+alcachofas en conserva en agua,92,2.31,86,Bajo,Si,"canela, vainilla"
+frijoles verdes congelados,22,2.62,57,Alto,Si,"canela, vainilla"
+zanahoria,78,14.67,20,Alto,Si,"canela, vainilla"
+mani,15,14.38,70,Alto,Si,"harina, azucar"
+lucuma,28,2.96,69,Alto,No,"harina, azucar"
+mezcla para pudin de limon,39,9.33,10,Medio,Si,
+avena de coccion rapida,52,16.95,30,Bajo,No,
+seasoning salt,21,15.34,41,Medio,Si,"harina, azucar"
+polvo de curry,43,12.01,62,Bajo,No,"canela, vainilla"
+lechuga romana,75,10.96,6,Medio,No,"harina, azucar"
+segundo,52,18.88,24,Alto,No,
+aku crudo,93,13.75,59,Medio,Si,
+hongo,50,7.3,28,Medio,No,
+sour cream,18,12.03,41,Bajo,Si,"harina, azucar"
+seta shiitake,32,15.27,84,Alto,No,"canela, vainilla"
+nueces negras,4,11.76,74,Alto,No,
+especias mezcladas,65,2.91,60,Medio,No,
+granulos de cafe instantaneo,57,16.63,62,Bajo,No,"harina, azucar"
+granada,11,5.8,25,Bajo,No,"leche, huevo"
+pimienta de chile,84,2.93,14,Bajo,Si,"harina, azucar"
+manzanas verdes,62,3.11,80,Medio,Si,"harina, azucar"
+nata espesa,53,8.0,55,Alto,Si,"leche, huevo"
+aji amarillo,5,14.56,26,Alto,No,"harina, azucar"
+perejil,92,9.66,70,Medio,Si,
+arroz salvaje,63,14.95,81,Alto,Si,"harina, azucar"
+garbanzos en conserva,99,5.81,88,Bajo,Si,"canela, vainilla"
+white sugar,68,19.37,29,Bajo,Si,"leche, huevo"
+vinagre de vino,4,18.39,82,Medio,Si,
+cebolla espanola,70,16.56,35,Bajo,Si,"canela, vainilla"
+cool whip,60,0.71,67,Bajo,No,
+curry rojo,8,13.12,34,Medio,No,"leche, huevo"
+mantequilla dulce,37,3.91,74,Alto,No,"leche, huevo"
+queso suizo bajo en grasa,52,9.5,66,Bajo,No,"leche, huevo"
+curry panang,37,17.93,61,Medio,Si,"leche, huevo"
+avena en hojuelas,77,10.59,87,Medio,Si,
+gebhardt&reg,49,8.92,95,Alto,No,"harina, azucar"
+salsa worcestershire,83,16.19,77,Alto,No,
+cebolla en polvo,37,8.41,48,Bajo,Si,"leche, huevo"
+pimienta sazonada,12,9.58,70,Alto,Si,"canela, vainilla"
+aceitunas maduras,90,9.56,10,Medio,Si,"canela, vainilla"
+azucar rubia,30,17.29,19,Medio,Si,"canela, vainilla"
+pasta pequena,70,10.48,50,Medio,No,"canela, vainilla"
+mantequilla sin sal,17,6.98,37,Alto,Si,"harina, azucar"
+queso monterrey jack bajo en grasa,62,19.37,72,Alto,Si,"leche, huevo"
+apio,89,17.67,23,Alto,Si,
+maiz congelado,9,9.35,49,Alto,Si,
+crushed pineapple,47,9.73,4,Medio,Si,"harina, azucar"
+pimienta de sichuan,93,16.35,53,Medio,No,"leche, huevo"
+clavo molido,87,3.81,52,Bajo,No,"harina, azucar"
+curry balti,53,11.49,44,Medio,No,"canela, vainilla"
+hojuelas de aji rojo,78,8.15,58,Medio,Si,"leche, huevo"
+polvo de hornear de doble accion,61,18.34,44,Alto,Si,"leche, huevo"
+banana,47,11.65,18,Alto,Si,"harina, azucar"
+pina,79,6.39,36,Alto,Si,"canela, vainilla"
+rodaja de lima,29,16.55,67,Bajo,No,"harina, azucar"
+queso cottage sin grasa,6,16.08,0,Alto,No,
+harina sazonada,36,5.59,81,Medio,Si,"leche, huevo"
+diente de leon,33,8.15,13,Bajo,No,
+mitades de segundo,92,16.09,42,Bajo,No,
+medium-dry sherry,25,3.1,4,Bajo,Si,
+tomates estofados al estilo cajun,1,8.1,14,Medio,Si,"canela, vainilla"
+champinones frescos,17,0.66,47,Medio,Si,"leche, huevo"
+pasta de tomate,75,19.93,88,Alto,Si,"harina, azucar"
+pimenton hungaro,50,1.33,52,Bajo,Si,"harina, azucar"
+papaya,84,18.9,65,Bajo,No,"canela, vainilla"
+chiles jalapenos,53,15.77,59,Bajo,No,"canela, vainilla"
+grand marnier,63,5.7,10,Alto,No,
+curry korma,66,4.66,19,Bajo,No,"leche, huevo"
+worcestershire sauce,10,7.24,47,Medio,No,"harina, azucar"
+queso parmesano,88,4.03,6,Medio,No,"canela, vainilla"
+hierba de limon,65,12.79,43,Alto,No,"leche, huevo"
+postre de albaricoque,87,19.39,70,Bajo,No,
+tomate enlatado,74,12.04,43,Bajo,Si,"canela, vainilla"
+lentejas rojas,2,10.92,84,Bajo,Si,"leche, huevo"
+mejorana fresca,57,5.25,48,Alto,No,"harina, azucar"
+relleno de postre de cereza ligera,51,18.28,89,Medio,Si,
+frozen chopped spinach,16,14.23,44,Alto,Si,"canela, vainilla"
+salsa de soja espesa,79,14.45,82,Alto,Si,
+caldo de pollo instantaneo seco,96,14.64,46,Bajo,Si,"leche, huevo"
+dole®,63,17.31,3,Bajo,Si,"harina, azucar"
+vinagre tinto,80,9.02,67,Bajo,Si,"harina, azucar"
+mostaza amarilla,61,13.32,5,Medio,No,"canela, vainilla"
+segundo sin piel,39,8.4,73,Bajo,No,"leche, huevo"
+pimientos rojos y amarillos,56,18.97,57,Alto,No,"harina, azucar"
+mitades de pollo,46,19.29,65,Alto,Si,
+curry pathia,84,2.47,12,Medio,No,"harina, azucar"
+queso mozzarella bajo en grasa,4,8.0,87,Alto,Si,"harina, azucar"
+anis,29,15.46,76,Medio,Si,"harina, azucar"
+perejil italiano,100,13.65,13,Medio,Si,"canela, vainilla"
+galletas de chocolate,79,16.7,77,Medio,Si,"leche, huevo"
+maiz germinado,17,13.09,53,Bajo,Si,
+muffins ingleses,42,0.89,81,Bajo,Si,"canela, vainilla"
+jamon ahumado,47,11.0,85,Medio,Si,
+rodaja de limon,93,4.02,37,Alto,No,
+pure de tomate,69,10.26,78,Bajo,No,"canela, vainilla"
+ciruelas dulces,11,15.54,48,Alto,No,"canela, vainilla"
+chicken parts,25,3.25,56,Bajo,No,
+gruyere,56,18.12,95,Medio,No,
+amarillo,79,12.55,32,Alto,No,"canela, vainilla"
+hoja de albahaca fresca,21,4.38,82,Alto,Si,"harina, azucar"
+chocolate blanco,33,13.52,52,Medio,Si,"harina, azucar"
+linguine,26,3.93,7,Bajo,Si,"canela, vainilla"
+pechuga de pollo,45,13.7,77,Bajo,No,
+pina en jugo,86,13.7,44,Alto,Si,
+hojas de oregano seco,20,7.88,84,Bajo,No,
+mostaza de piedra molida,16,10.88,21,Medio,No,
+curry madras,61,13.13,84,Bajo,No,"canela, vainilla"
+carne de res sin hueso (paleta),13,6.55,84,Alto,No,
+nueces de pecan,61,2.26,66,Alto,No,
+harina de camote,37,3.6,49,Medio,No,
+chinchulines,24,15.8,72,Medio,Si,"leche, huevo"
+tomates enteros,15,8.0,65,Alto,Si,"canela, vainilla"
+partes de pollo,2,19.52,18,Bajo,No,"canela, vainilla"
+cerezas,93,7.69,14,Bajo,No,"canela, vainilla"
+pasta orzo,57,4.35,23,Medio,No,
+queso fontina sueco,83,14.4,53,Alto,No,
+pollos para asar,44,1.37,37,Medio,No,"harina, azucar"
+calabaza en pure,10,12.67,87,Bajo,No,"leche, huevo"
+pimientos dulces,97,5.27,9,Alto,Si,"harina, azucar"
+cumin,79,0.85,32,Bajo,Si,"leche, huevo"
+mayonnaise,30,5.41,69,Medio,No,"harina, azucar"
+curry en polvo,24,8.71,47,Bajo,Si,
+nutmeg,60,15.37,56,Medio,No,"leche, huevo"
+limas,1,16.97,39,Medio,Si,"leche, huevo"
+aceitunas,54,6.82,3,Bajo,No,"leche, huevo"
+semillas de anis,100,8.17,47,Bajo,Si,
+limones,17,15.85,69,Alto,No,"harina, azucar"
+vinegar,74,8.81,1,Bajo,No,"canela, vainilla"
+curry phall,97,7.52,38,Bajo,Si,"leche, huevo"
+vino chino,74,17.28,26,Medio,No,"harina, azucar"
+camarones u-12,42,1.0,12,Medio,Si,
+basil,62,12.03,42,Medio,No,"harina, azucar"
+sweet potatoes,5,19.49,51,Bajo,No,"canela, vainilla"
+yogur natural sin grasa,66,11.81,19,Bajo,Si,
+brotes de frijol,48,1.94,59,Alto,Si,"harina, azucar"
+filetes de platija,38,10.55,17,Bajo,No,"canela, vainilla"
+pina sin azucar,40,12.5,53,Alto,No,"leche, huevo"
+mitades de segundo sin hueso ni piel,18,16.36,87,Medio,No,"harina, azucar"
+semillas de comino frescas,31,13.45,37,Medio,No,
+hierbas secas,40,6.27,13,Alto,No,"canela, vainilla"
+tahini,8,18.32,86,Bajo,No,"harina, azucar"
+cebollines,89,13.0,75,Alto,Si,
+mezcla de especias,73,13.37,88,Bajo,No,"leche, huevo"
+azucar muscovado oscuro,71,1.32,33,Medio,No,"harina, azucar"
+espinacas congeladas,97,16.58,25,Alto,Si,"harina, azucar"
+brote de frijol fresco,87,2.11,37,Bajo,Si,"leche, huevo"
+leche en polvo desnatada instantanea,78,4.16,5,Medio,No,"harina, azucar"
+eneldo fresco,21,10.91,45,Medio,No,
+plato principal sin hueso,93,1.48,97,Medio,No,"canela, vainilla"
+bok choy,54,1.2,95,Alto,Si,
+sal para enlatado,76,17.4,75,Medio,Si,"harina, azucar"
+butter,38,8.6,39,Medio,Si,"canela, vainilla"
+pimientos rojos picantes,37,5.04,92,Bajo,No,"canela, vainilla"
+coconut milk,73,4.07,14,Medio,No,"leche, huevo"
+azucar glas,52,0.93,29,Alto,No,"leche, huevo"
+copos de coco,47,7.76,83,Medio,Si,"harina, azucar"
+green onions,74,4.83,5,Alto,Si,"leche, huevo"
+salsa teriyaki,8,1.68,88,Bajo,No,
+pasta mostaccioli,41,1.38,30,Medio,No,"leche, huevo"
+cornmeal,9,18.14,46,Medio,No,"harina, azucar"
+semillas de girasol,16,7.08,65,Alto,Si,"leche, huevo"
+nuez moscada,1,14.85,35,Bajo,Si,"canela, vainilla"
+bittersweet chocolate,42,4.94,33,Alto,No,"canela, vainilla"
+tomates,25,13.24,34,Alto,Si,"harina, azucar"
+harina sin tamizar,24,16.6,9,Medio,No,
+hoisin sauce,48,15.66,59,Bajo,Si,"canela, vainilla"
+mango,32,15.63,90,Medio,No,
+clove,61,1.67,83,Bajo,No,"canela, vainilla"
+espinaca congelada,87,9.3,53,Alto,Si,
+vanilla extract,47,4.23,95,Bajo,Si,"harina, azucar"
+calabaza fresca,18,4.58,21,Medio,No,
+brotes de soja,51,8.03,85,Medio,No,
+roasted unsalted peanuts,76,10.52,53,Medio,Si,"harina, azucar"
+yogur natural bajo en grasa,5,9.57,71,Alto,Si,"harina, azucar"
+crema de malvavisco,66,3.43,72,Bajo,No,"canela, vainilla"
+long-grain white rice,62,14.38,97,Bajo,No,
+levadura seca activa,16,13.95,8,Alto,No,"harina, azucar"
+pasta de chipotle,70,4.39,98,Medio,Si,"leche, huevo"
+ueso parmesano,34,8.3,2,Medio,Si,"leche, huevo"
+ralladura de lima key,64,6.54,19,Alto,Si,
+muslos de pollo sin piel,52,3.39,38,Alto,No,"leche, huevo"
+pollo,61,8.1,19,Alto,Si,"leche, huevo"
+sal marina,61,11.76,32,Bajo,Si,"harina, azucar"
+fresh tomatoes,19,2.35,45,Bajo,No,"canela, vainilla"
+higo,8,1.98,82,Bajo,Si,"harina, azucar"
+ensalada,47,5.99,55,Bajo,Si,"leche, huevo"
+pure de manzana sin azucar,30,14.29,17,Bajo,Si,"leche, huevo"
+conchas de pasta medianas,58,4.78,42,Alto,Si,
+calamar,27,11.12,73,Medio,No,"leche, huevo"
+atun,10,1.05,9,Medio,No,
+albahaca dulce,79,15.63,19,Alto,Si,"harina, azucar"
+queso mozzarella parcialmente descremado,34,1.19,90,Medio,Si,
+crema acida,40,8.52,46,Medio,Si,"leche, huevo"
+olive oil,70,8.16,70,Bajo,Si,
+salmon fresco,91,7.16,31,Alto,No,"canela, vainilla"
+lentejas francesas,35,5.43,70,Alto,No,"leche, huevo"
+saborizante de humo liquido,68,1.86,67,Alto,No,"canela, vainilla"
+coco rallado,6,17.41,81,Alto,No,"canela, vainilla"
+papa amarilla,87,10.33,12,Medio,No,
+garam masala,57,8.76,57,Bajo,Si,"canela, vainilla"
+harina de postre,57,17.65,40,Alto,Si,"harina, azucar"
+harina de maiz blanca,15,4.68,25,Bajo,No,"canela, vainilla"
+levadura para vino comun,15,2.18,11,Alto,No,"harina, azucar"
+agua hirviendo,17,16.45,67,Bajo,Si,"leche, huevo"
+harina de maiz,90,14.63,11,Bajo,No,"leche, huevo"
+miel local buena,25,6.62,39,Alto,Si,"leche, huevo"
+pimienta de cayena,27,8.24,20,Medio,No,"canela, vainilla"
+vino de cocina,14,15.18,6,Medio,Si,
+nuez de brasil,32,18.3,43,Alto,No,"leche, huevo"
+pasas oscuras,81,5.92,42,Alto,Si,"harina, azucar"
+melaza oscura,75,19.22,98,Alto,Si,"harina, azucar"
+trozos de nuez,55,6.92,40,Bajo,Si,"harina, azucar"
+raisins,41,9.06,69,Bajo,No,"leche, huevo"
+queso azul,38,7.5,40,Medio,No,
+walnuts,99,10.36,32,Alto,No,"canela, vainilla"
+anchoa,25,17.29,23,Alto,Si,"leche, huevo"
+pez espada,92,1.15,64,Bajo,Si,"harina, azucar"
+carne magra molida de res,63,13.22,74,Medio,No,"leche, huevo"
+energizante para levadura,12,12.09,60,Medio,Si,"canela, vainilla"
+penne,86,16.69,64,Medio,Si,"leche, huevo"
+vainilla real,85,4.04,86,Medio,Si,"canela, vainilla"
+fecula de maiz,80,16.95,1,Medio,No,"harina, azucar"
+mantequilla de sesamo tahini,74,2.42,31,Alto,Si,"harina, azucar"
+rabano picante,6,10.43,71,Alto,No,"leche, huevo"
+mezcla de condimento de limon y pimienta,52,7.8,44,Medio,No,"leche, huevo"
+cubitos de caldo de pollo bajo en sodio,56,12.6,39,Bajo,No,"leche, huevo"
+anacardos sin sal,7,14.92,3,Alto,Si,"canela, vainilla"
+estragon,53,14.33,60,Bajo,Si,
+pasas sultanas,51,16.44,71,Alto,Si,
+ron dorado,75,7.43,66,Alto,No,"harina, azucar"
+chiles serranos verdes,80,5.59,76,Medio,No,
+leche de soja,73,9.39,19,Alto,Si,"leche, huevo"
+mitades de nuez,100,0.92,32,Alto,No,"canela, vainilla"
+cebollas de verdeo,45,14.17,14,Alto,Si,"canela, vainilla"
+harina comun no tamizada,77,11.52,46,Bajo,No,"leche, huevo"
+crema batida (cool whip),9,10.99,82,Bajo,Si,"leche, huevo"
+filete de falda de res,3,12.22,86,Medio,No,"canela, vainilla"
+pimienta de sichuan tostada,85,1.37,48,Bajo,Si,"harina, azucar"
+onion,33,7.8,78,Bajo,No,
+bizcochos de savoiardi,5,0.56,40,Medio,Si,"leche, huevo"
+bicarbonato de sodio,32,16.69,69,Medio,No,
+higado de ternera,8,12.4,50,Bajo,No,"canela, vainilla"
+vermut extra seco,87,14.52,9,Medio,No,"canela, vainilla"
+harina de trigo sarraceno,54,7.88,50,Bajo,No,
+mostaza preparada,26,15.91,53,Alto,Si,
+apples,73,10.69,37,Medio,No,"harina, azucar"
+ramita de perejil fresco,22,19.95,29,Medio,No,"harina, azucar"
+rama de canela,84,11.62,95,Medio,Si,"canela, vainilla"
+queso cottage bajo en grasa,96,17.99,12,Bajo,No,"leche, huevo"
+filetes de salmon,99,11.48,48,Alto,Si,"harina, azucar"
+crutones,62,12.02,10,Bajo,No,"leche, huevo"
+gajo de lima,58,1.69,8,Alto,Si,"leche, huevo"
+vino noilly prat,92,15.15,62,Medio,No,"leche, huevo"
+lima,73,14.19,57,Bajo,Si,"canela, vainilla"
+repollo de saboya,27,14.39,18,Bajo,No,"canela, vainilla"
+frambuesa,14,4.96,64,Bajo,No,"leche, huevo"
+mezcla de condimentos herbales,45,18.57,11,Bajo,Si,"harina, azucar"
+moras frescas,62,18.54,92,Medio,Si,"canela, vainilla"
+pimientos amarillos,2,19.51,3,Medio,Si,"leche, huevo"
+masa filo,51,0.67,95,Medio,No,"harina, azucar"
+helado de vainilla,76,1.29,31,Medio,No,"leche, huevo"
+hojuelas de perejil seco,10,0.81,85,Alto,Si,
+hojuelas de perejil,62,6.98,30,Medio,Si,"leche, huevo"
+vinagre de vino tinto con ajo,66,18.27,21,Medio,Si,"canela, vainilla"
+remolacha,5,14.91,64,Bajo,No,"canela, vainilla"
+cremor tartaro,26,5.99,70,Bajo,Si,
+maiz blanco,32,12.73,36,Medio,Si,"harina, azucar"
+vinagre blanco,21,8.16,61,Alto,Si,"leche, huevo"
+hojas de cilantro,59,4.52,97,Bajo,Si,"canela, vainilla"
+azucar morena oscura,65,3.44,43,Alto,No,"leche, huevo"
+macarrones,12,14.22,98,Alto,No,"canela, vainilla"
+mini malvaviscos,61,4.05,3,Bajo,Si,"harina, azucar"
+filete de lomo,24,11.02,32,Alto,Si,
+paprika hungara dulce,29,10.9,62,Medio,Si,"harina, azucar"
+aderezo cesar,79,10.93,88,Alto,Si,"leche, huevo"
+anchoas,92,8.11,79,Medio,No,
+harina leudante,43,7.83,28,Medio,Si,
+sal gruesa,18,10.84,67,Alto,No,"canela, vainilla"
+repollo rojo,77,12.19,94,Bajo,No,
+carne molida de res magra,71,19.56,73,Medio,Si,
+cerveza budweiser,21,6.74,21,Bajo,No,
+no creo que sea mantequilla sin grasa,65,1.53,14,Alto,No,"canela, vainilla"
+garlic,28,15.6,26,Alto,Si,"harina, azucar"
+camu camu,43,6.22,68,Medio,No,"canela, vainilla"
+queso mozzarella rallado,83,17.86,36,Medio,No,"leche, huevo"
+pasta deseada,5,8.68,59,Alto,Si,"harina, azucar"
+chispas de chocolate,48,15.95,68,Medio,Si,"harina, azucar"
+pimienta de limon,62,2.57,61,Medio,Si,"harina, azucar"
+carne,97,6.29,35,Bajo,Si,
+manteca vegetal,3,6.75,1,Bajo,Si,"harina, azucar"
+caldo de carne sin grasa,52,14.28,72,Medio,Si,"harina, azucar"
+espinacas frescas,24,18.9,42,Medio,No,"harina, azucar"
+frijoles negros,26,19.95,29,Bajo,No,"leche, huevo"
+requeson,46,7.96,90,Bajo,No,"leche, huevo"
+maiz fresco,31,6.6,42,Bajo,Si,"harina, azucar"
+cheddar cheese,35,9.55,8,Alto,No,
+azucar glass,41,17.05,88,Bajo,No,"leche, huevo"
+espagueti,98,12.55,60,Medio,Si,
+ron oscuro,82,10.43,88,Alto,Si,
+pepinos,38,7.12,61,Medio,No,"harina, azucar"
+lomo de res,85,14.87,20,Alto,Si,
+mezcla instantanea de pudin sabor vainilla,8,19.23,67,Medio,No,"harina, azucar"
+bulgur,70,0.62,17,Bajo,Si,
+pavo,6,0.93,46,Medio,No,"harina, azucar"
+avena enrollada,17,12.26,14,Alto,Si,"canela, vainilla"
+higados de pollo,79,11.2,70,Bajo,No,
+head of cabbage,15,14.71,77,Bajo,No,"harina, azucar"
+chiles secos ancho,16,7.2,74,Bajo,Si,
+ejotes,59,9.46,19,Alto,Si,"harina, azucar"
+macarrones en codo,3,17.61,27,Bajo,Si,"leche, huevo"
+nueces pecanas,20,15.83,55,Medio,No,"canela, vainilla"
+nabo,19,8.12,84,Alto,Si,"leche, huevo"
+crema de queso,55,1.82,38,Bajo,Si,"canela, vainilla"
+queso crema light,70,16.48,72,Bajo,No,"leche, huevo"
+(sin ingredientes especificados),52,2.81,93,Medio,Si,
+alitas de pollo,91,4.3,64,Bajo,No,"harina, azucar"
+hierbas finas secas,60,13.25,80,Alto,Si,"harina, azucar"
+oleo,2,4.36,100,Alto,No,"leche, huevo"
+sirope de maiz ligero,98,6.69,56,Bajo,No,"harina, azucar"
+carne para estofado de res,73,8.28,37,Bajo,No,"leche, huevo"
+onion powder,22,8.76,9,Bajo,No,
+arroz basmati,80,8.41,82,Medio,No,"canela, vainilla"
+vino riesling,42,10.96,15,Bajo,Si,"harina, azucar"
+queso velveeta,4,17.56,41,Bajo,Si,"harina, azucar"
+caldo de pollo bajo en sodio,40,5.81,31,Alto,No,"harina, azucar"
+hojas frescas de albahaca dulce,65,4.83,46,Bajo,Si,
+salsa de chile,57,2.91,67,Alto,No,"leche, huevo"
+vinagre de vino gourmet,76,3.81,38,Alto,No,
+eggs,64,1.86,68,Bajo,No,
+hoja de curry,43,11.35,72,Medio,No,"canela, vainilla"
+cebolla de cocina,37,16.55,77,Medio,Si,"canela, vainilla"
+pan rallado,81,13.69,13,Bajo,Si,"canela, vainilla"
+piri-piri,16,2.26,87,Alto,Si,"canela, vainilla"
+pechugas de pollo sin piel ni hueso,63,16.32,48,Medio,Si,"harina, azucar"
+sebo,17,6.88,55,Alto,Si,"leche, huevo"
+granos de pimienta,19,8.86,52,Bajo,No,"canela, vainilla"
+semillas de amapola y apio,57,7.89,87,Alto,No,"leche, huevo"
+condimento accent,81,13.78,28,Medio,Si,"canela, vainilla"
+fideos,50,17.36,70,Bajo,No,
+trozos de pina sin azucar,94,17.69,8,Medio,Si,"leche, huevo"
+rulos de chocolate,87,13.58,93,Medio,Si,"harina, azucar"
+papa frita,85,5.1,1,Medio,No,"canela, vainilla"
+harina con levadura,90,10.03,16,Medio,Si,
+salsa tabasco,77,3.85,83,Bajo,No,"canela, vainilla"
+beer,78,12.0,26,Medio,No,"harina, azucar"
+nuez,83,0.93,32,Medio,Si,
+partes verdes de cebolleta,28,7.27,44,Bajo,No,
+manzanas para hornear,6,2.85,89,Alto,No,
+queso colby,5,9.05,21,Bajo,Si,"harina, azucar"
+muslos de pollo,37,14.87,74,Medio,No,"canela, vainilla"
+papas hash sencillas,74,14.11,37,Alto,Si,
+harina sin blanquear,32,8.29,40,Alto,Si,
+semillas de amapola,36,10.2,40,Medio,Si,"leche, huevo"
+piezas de pollo,95,10.23,39,Bajo,Si,"leche, huevo"
+hierba de eneldo,23,4.13,5,Alto,Si,"leche, huevo"
+flour,63,0.61,93,Bajo,No,"leche, huevo"
+mezcla de pan rallado con hierbas,25,0.92,88,Alto,No,"leche, huevo"
+mascarpone,93,9.8,5,Bajo,No,"canela, vainilla"
+queso parmesano fresco,98,18.68,1,Medio,No,"canela, vainilla"
+salt,1,6.46,3,Medio,Si,"canela, vainilla"
+pimientos rojos,62,10.35,90,Medio,No,"canela, vainilla"
+sal para conservas,11,14.46,94,Bajo,Si,
+mejorana,40,3.7,68,Alto,Si,"canela, vainilla"
+membrillo,31,7.49,24,Bajo,Si,"harina, azucar"
+arroz,91,12.28,60,Bajo,Si,"canela, vainilla"
+claras de huevo,87,19.0,24,Alto,No,"harina, azucar"
+salvia,12,5.25,100,Bajo,No,"harina, azucar"
+grosellas,58,17.89,0,Alto,Si,"leche, huevo"
+esencia de vainilla,85,18.66,77,Medio,Si,"canela, vainilla"
+guisantes frescos,46,16.48,97,Bajo,No,"leche, huevo"
+platano firme,65,7.53,5,Alto,No,"canela, vainilla"
+cider vinegar,24,4.5,50,Medio,Si,
+papas hash congeladas estilo sureno,88,1.01,100,Alto,Si,"harina, azucar"
+hojas de albahaca fresca,3,16.81,70,Bajo,Si,"harina, azucar"
+sugar,37,16.09,62,Medio,No,
+cake flour,34,3.98,13,Alto,Si,"leche, huevo"
+yogur bajo en grasa,58,7.91,32,Medio,No,
+concentrado de proteina de soja en polvo,48,6.11,92,Medio,No,"leche, huevo"
+yogur natural,42,0.9,36,Medio,No,"canela, vainilla"
+paprika,7,16.83,27,Alto,Si,"canela, vainilla"
+salsa de soja ligera,82,8.99,71,Medio,No,"canela, vainilla"
+chili powder,64,10.41,97,Medio,Si,"harina, azucar"
+semillas de sesamo tostadas,11,0.83,41,Bajo,Si,"canela, vainilla"
+brocoli,68,3.93,80,Alto,No,
+tomates cherry rojos en forma de pera,47,13.07,28,Medio,No,"leche, huevo"
+salsa bbq,45,12.29,80,Alto,No,"harina, azucar"
+arandanos congelados,38,6.87,1,Bajo,No,"leche, huevo"
+mermelada de naranja de corte grueso,82,15.66,98,Bajo,Si,"leche, huevo"
+nueces pecan,100,1.6,17,Alto,Si,"harina, azucar"
+salchicha italiana,86,19.09,28,Alto,No,"canela, vainilla"
+queso parmesano sin grasa,7,4.53,25,Medio,Si,
+choclo,45,10.03,33,Medio,Si,"canela, vainilla"
+maraschino cherries,45,5.44,100,Alto,Si,
+pure de castana,83,17.94,84,Bajo,Si,"harina, azucar"
+garlic cloves,71,17.1,0,Medio,No,"canela, vainilla"
+polvo de comino,64,15.25,80,Bajo,No,"leche, huevo"
+helado,83,14.34,99,Medio,No,"canela, vainilla"
+platano,50,12.03,11,Alto,No,"harina, azucar"
+chalote,19,14.6,75,Medio,Si,"leche, huevo"
+frijol blanco,39,6.56,25,Medio,Si,
+berenjenas,68,6.08,98,Alto,Si,"canela, vainilla"
+alcachofa,57,16.17,32,Alto,No,"harina, azucar"
+jugo de lima fresco,17,7.09,24,Medio,Si,"canela, vainilla"
+tomillo seco entero,20,19.59,47,Medio,No,"harina, azucar"
+hierba de verano,40,1.03,11,Medio,Si,"leche, huevo"
+chocolate para hornear,53,11.11,70,Medio,Si,"harina, azucar"
+camarones jumbo,41,12.8,56,Bajo,No,
+queso ricotta bajo en grasa,24,11.55,90,Bajo,No,"leche, huevo"
+cubos de caldo de carne,40,4.06,19,Bajo,No,"leche, huevo"
+maiz morado,17,8.41,89,Bajo,Si,
+curry massaman,29,5.12,98,Medio,Si,"harina, azucar"
+frijoles verdes,45,5.61,29,Medio,Si,"leche, huevo"
+zapote,38,11.9,50,Medio,Si,"leche, huevo"
+mostaza seca,99,2.26,45,Medio,Si,
+vino de jerez,75,14.15,82,Medio,Si,"canela, vainilla"
+alum,87,12.5,58,Alto,Si,"harina, azucar"
+leche 2% baja en grasa,5,15.67,86,Medio,No,"canela, vainilla"
+trucha,90,19.53,86,Alto,Si,"leche, huevo"
+pasas sin semillas,46,18.57,84,Bajo,Si,
+yuca,15,3.27,48,Medio,No,
+higado de pollo,92,3.01,62,Alto,Si,"leche, huevo"
+tomate,37,18.51,36,Alto,Si,"leche, huevo"
+zanahorias frescas,11,17.49,6,Alto,No,"canela, vainilla"
+berenjena,39,6.09,67,Bajo,Si,"canela, vainilla"
+segmentos de mandarina,14,19.51,37,Medio,Si,"leche, huevo"
+avellanas enteras tostadas,64,9.55,45,Medio,No,"canela, vainilla"
+pescado blanco,83,15.43,35,Alto,Si,"canela, vainilla"
+chile picante,89,12.8,57,Bajo,Si,"canela, vainilla"
+floretes de brocoli frescos,28,0.83,21,Bajo,No,
+cebollines frescos,16,7.18,57,Medio,Si,"canela, vainilla"
+tortillas sin grasa,58,12.14,97,Alto,Si,"harina, azucar"
+canela molida,65,1.02,54,Medio,Si,"canela, vainilla"
+salsa barbacoa miel-dijon preparada,6,11.0,48,Medio,No,"leche, huevo"
+tofu de postre,26,17.87,27,Medio,No,"harina, azucar"
+aperitivo,89,4.71,51,Alto,Si,"harina, azucar"
+mirin,95,13.42,1,Alto,No,"harina, azucar"
+tomates cherry amarillos,90,5.5,64,Bajo,No,"canela, vainilla"
+margarina sin grasa solida y liquida,64,4.95,24,Bajo,Si,"canela, vainilla"
+hielo,15,6.7,41,Medio,No,"canela, vainilla"
+manzanas,54,8.8,15,Medio,Si,"canela, vainilla"
+salsa chili,8,18.85,66,Alto,No,
+aderezo,36,5.86,19,Bajo,No,
+carne de plato principal,21,1.1,78,Bajo,Si,"harina, azucar"
+sultanas,99,16.39,68,Bajo,Si,"leche, huevo"
+perejil fresco y seco,24,8.38,51,Medio,Si,"leche, huevo"
+pechugas de pollo sin hueso ni piel,45,5.12,70,Alto,Si,
+powdered sugar,93,3.96,46,Alto,No,
+pure de papas,97,19.76,5,Alto,Si,"harina, azucar"
+col napa,3,5.25,24,Medio,Si,
+queso monterrey jack,27,18.63,51,Bajo,Si,
+vino tinto seco,95,13.68,77,Bajo,No,"leche, huevo"
+salmon salado,11,10.33,18,Bajo,Si,"harina, azucar"
+hojas de apio,96,6.41,5,Alto,No,
+jarabe de maiz,65,10.05,36,Bajo,No,"leche, huevo"
+levadura seca granulada,30,8.33,10,Bajo,No,"harina, azucar"
+crema espesa,80,2.89,50,Medio,Si,"leche, huevo"
+carne molida de res,28,18.67,1,Bajo,Si,"canela, vainilla"
+cebolla verde,80,9.34,7,Bajo,Si,"leche, huevo"
+pudin instantaneo de vainilla,82,18.89,79,Bajo,No,"harina, azucar"
+champinon,87,11.17,44,Alto,No,
+cebollinos,73,16.82,66,Medio,Si,"canela, vainilla"
+harina comun,38,11.52,45,Medio,No,"leche, huevo"
+laurel,97,13.68,43,Medio,Si,
+pechuga de pollo sin hueso ni piel,6,19.14,90,Medio,No,"leche, huevo"
+almejas,85,10.72,44,Bajo,Si,"leche, huevo"
+crema de malvaviscos,26,17.9,98,Bajo,No,
+costillas de res con hueso,69,13.43,100,Medio,Si,
+ajo,15,17.02,90,Alto,No,"leche, huevo"
+clavos,3,18.62,96,Medio,No,"leche, huevo"
+croutones,63,11.2,1,Bajo,No,"harina, azucar"
+platanos,50,12.62,78,Bajo,No,"harina, azucar"
+hojuelas de pimiento rojo,70,17.87,56,Alto,Si,"leche, huevo"
+sazonador accent,91,8.6,32,Medio,No,"harina, azucar"
+agua fria,19,7.02,83,Medio,No,
+tomato paste,40,5.48,42,Bajo,No,
+clavo en polvo,54,1.37,83,Medio,Si,"harina, azucar"
+repollo verde crudo,47,10.17,48,Bajo,Si,"harina, azucar"
+frambuesas,67,10.63,52,Medio,No,"harina, azucar"
+papas ralladas,63,7.21,43,Medio,No,"leche, huevo"
+harina blanca fuerte,98,19.75,60,Bajo,Si,
+leche descremada,38,16.06,74,Bajo,Si,"harina, azucar"
+jengibre molido,15,14.22,58,Alto,Si,"canela, vainilla"
+algas,5,5.71,47,Bajo,Si,"leche, huevo"
+comino,22,1.66,86,Bajo,Si,
+jarabe de maiz ligero,38,6.14,48,Bajo,No,"harina, azucar"
+caldo en cubos,45,11.08,70,Bajo,No,"leche, huevo"
+calabacin fresco,88,13.99,24,Bajo,Si,"canela, vainilla"
+harina de maiz blanca de molienda de piedra,5,0.59,75,Alto,No,"harina, azucar"
+pimientos verdes,46,6.36,54,Bajo,No,"canela, vainilla"
+light brown sugar,51,16.42,15,Alto,No,"canela, vainilla"
+armagnac,51,12.99,33,Alto,Si,
+baguette francesa,20,10.49,97,Medio,Si,"canela, vainilla"
+pimiento en conserva,86,0.52,67,Bajo,Si,"canela, vainilla"
+cebollas verdes,17,5.16,27,Medio,No,"harina, azucar"
+pasas rubias,35,14.42,3,Bajo,No,"canela, vainilla"
+cebolla fresca,20,5.11,12,Alto,Si,
+castanas,81,6.81,48,Bajo,No,"canela, vainilla"
+guisantes de nieve,42,9.93,23,Bajo,Si,
+tallarines,31,4.05,97,Alto,Si,
+polvo de chile,8,5.2,21,Bajo,Si,"harina, azucar"
+frijoles pintos secos,64,15.24,39,Bajo,Si,"leche, huevo"
+yogur congelado,88,0.89,93,Alto,Si,"leche, huevo"
+cebollino,46,4.56,32,Bajo,No,"canela, vainilla"
+cabezas de ajo,85,9.3,33,Medio,No,"canela, vainilla"
+cuadrado de chocolate aleman,61,5.77,1,Alto,No,"leche, huevo"
+carrots,36,13.09,37,Alto,No,"canela, vainilla"
+filetes de plato principal sin hueso,18,8.61,69,Bajo,Si,"canela, vainilla"
+sesamo,79,15.95,77,Alto,Si,"canela, vainilla"
+ajo seco,41,7.28,78,Alto,Si,
+cafe fuerte y rico,17,1.89,13,Bajo,No,
+ralladura de naranja,50,9.73,22,Bajo,Si,"leche, huevo"
+bisteque de punta redonda,99,18.98,44,Alto,No,
+fresh basil,70,9.56,63,Medio,Si,
+naranjas,63,17.45,45,Medio,Si,"leche, huevo"
+leche baja en grasa al 1 %,86,6.33,69,Alto,No,"canela, vainilla"
+frijoles rojos,81,3.37,33,Bajo,Si,"harina, azucar"
+avena arrollada,65,16.6,34,Medio,Si,"leche, huevo"
+pacanas,43,4.14,41,Bajo,No,"harina, azucar"
+salvia seca,38,16.62,31,Alto,Si,"leche, huevo"
+bizcochos de soletilla,98,6.99,26,Alto,Si,"leche, huevo"
+oregano fresco,81,16.54,64,Medio,No,
+tapioca instantanea,10,5.65,99,Alto,Si,"harina, azucar"
+caldo de carne,70,10.7,87,Bajo,No,"leche, huevo"
+salsa de soya,65,9.42,83,Medio,No,
+cacahuetes,47,7.53,32,Medio,No,"leche, huevo"
+ramitas frescas de estragon,76,16.16,75,Bajo,No,"leche, huevo"
+ralladura de limon,13,13.55,16,Medio,Si,"canela, vainilla"
+hamburguesa regular,81,14.26,9,Medio,Si,"harina, azucar"
+curry suave,70,9.3,12,Alto,No,"canela, vainilla"
+pimenton picante,9,2.45,11,Bajo,Si,"canela, vainilla"
+anacardos,36,12.16,73,Bajo,No,
+filetes de res sin hueso,69,12.97,68,Alto,Si,"leche, huevo"
+uva,31,17.71,85,Bajo,No,"leche, huevo"
+vermut dulce,46,12.87,10,Bajo,No,"canela, vainilla"
+galletas graham,3,6.16,44,Medio,Si,
+perejil fresco,68,12.75,79,Alto,No,"harina, azucar"
+filete de res,79,5.1,8,Alto,Si,"leche, huevo"
