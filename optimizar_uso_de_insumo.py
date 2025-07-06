@@ -10,11 +10,12 @@ def mostrar_grafo(grafo, titulo, frame_canvas):
         widget.destroy()
 
     fig, ax = plt.subplots(figsize=(8, 6))
+    fig.tight_layout()
 
     try:
         pos = nx.kamada_kawai_layout(grafo)
     except:
-        pos = nx.circular_layout(grafo)
+        pos = nx.spring_layout(grafo)
 
     nx.draw_networkx_nodes(grafo, pos, node_color='lightgreen', node_size=700, edgecolors='black', ax=ax)
     nx.draw_networkx_edges(grafo, pos, ax=ax)
@@ -76,50 +77,71 @@ class GrafoIngredientes:
             sub[u][v]['weight'] = (cu + cv) / 2
         return nx.minimum_spanning_tree(sub, algorithm='kruskal')
 
+
 class App:
     def __init__(self, root):
         self.root = root
         self.root.title("Optimización de Insumos por Coocurrencias")
+        self.root.geometry("1000x700")
+        self.root.configure(bg="#F5F5F5")
+        self.root.option_add("*Font", ("Segoe UI", 10))
+
+
         self.grafo = GrafoIngredientes()
         self.grafo.cargar_csv("ingredientes_completo.csv")
         self.crear_ui()
 
     def crear_ui(self):
-        frame = ttk.Frame(self.root)
-        frame.pack(fill="both", expand=True)
+        # Estilo visual
+        style = ttk.Style()
+        style.configure("TFrame", background="#F5F5F5")
+        style.configure("TLabel", background="#F5F5F5", font=("Segoe UI", 10))
+        style.configure("TButton", font=("Segoe UI", 10, "bold"))
 
-        self.left = ttk.Frame(frame)
-        self.left.pack(side="left", padx=10, pady=10)
+        main_frame = ttk.Frame(self.root, padding=10)
+        main_frame.pack(fill="both", expand=True)
 
-        ttk.Label(self.left, text="Ingrediente base:").pack()
-        self.entrada = ttk.Entry(self.left)
-        self.entrada.pack()
+        # Panel izquierdo (entrada y botones)
+        self.left = ttk.Frame(main_frame, padding=10, relief="ridge")
+        self.left.pack(side="left", fill="y", padx=10, pady=10)
 
-        ttk.Button(self.left, text="Buscar DFS", command=self.buscar_dfs).pack(pady=5)
-        self.lista_dfs = tk.Listbox(self.left, width=40, height=6)
-        self.lista_dfs.pack()
+        ttk.Label(self.left, text="Ingrediente base:").pack(anchor="w", pady=(0, 3))
+        self.entrada = ttk.Entry(self.left, width=30)
+        self.entrada.pack(pady=(0, 10))
 
-        ttk.Button(self.left, text="Optimizar MST", command=self.optimizar_mst).pack(pady=5)
-        self.lista_mst = tk.Listbox(self.left, width=40, height=6)
-        self.lista_mst.pack()
+        ttk.Button(self.left, text="Buscar co-ocurrencias (DFS)", command=self.buscar_dfs).pack(fill="x", pady=5)
 
-        self.right = ttk.Frame(frame)
-        self.right.pack(side="right", fill="both", expand=True)
+        ttk.Label(self.left, text="Ingredientes relacionados:").pack(anchor="w", pady=(10, 3))
+        self.lista_dfs = tk.Listbox(self.left, height=6, width=35, bg="white", relief="solid", borderwidth=1)
+        self.lista_dfs.pack(fill="x", pady=(0, 10))
+
+        ttk.Button(self.left, text="Optimizar conexión (MST)", command=self.optimizar_mst).pack(fill="x", pady=5)
+
+        ttk.Label(self.left, text="Insumos optimizados:").pack(anchor="w", pady=(10, 3))
+        self.lista_mst = tk.Listbox(self.left, height=6, width=35, bg="white", relief="solid", borderwidth=1)
+        self.lista_mst.pack(fill="x")
+
+        # Panel derecho (grafo)
+        self.right = ttk.LabelFrame(main_frame, text="Visualización del Grafo", padding=10)
+        self.right.pack(side="right", fill="both", expand=True, padx=10, pady=10)
 
     def buscar_dfs(self):
         nodo = self.entrada.get().strip().lower()
-        if not nodo or nodo not in self.grafo.grafo:
-            messagebox.showerror("Error", "Ingrediente no válido.")
+        if not nodo:
+            messagebox.showerror("Error", "Ingrese un ingrediente.")
+            return
+        if nodo not in self.grafo.grafo.nodes:
+            messagebox.showerror("Error", f"No se encontró '{nodo}' en el grafo.")
             return
 
         self.resultado_dfs = self.grafo.dfs_coocurrencia(nodo)
         self.lista_dfs.delete(0, tk.END)
-        for nodo, prof in self.resultado_dfs:
-            self.lista_dfs.insert(tk.END, f"{nodo} (Prof. {prof})")
+        for nodo_resultado, prof in self.resultado_dfs:
+            self.lista_dfs.insert(tk.END, f"{nodo_resultado} (Prof. {prof})")
 
         nodos = [n for n, _ in self.resultado_dfs]
         subgrafo = self.grafo.grafo.subgraph(nodos)
-        mostrar_grafo(subgrafo, f"DFS desde {nodo}", self.right)
+        mostrar_grafo(subgrafo, f"Exploración desde '{nodo.capitalize()}'", self.right)
 
     def optimizar_mst(self):
         if not hasattr(self, "resultado_dfs"):
@@ -134,7 +156,8 @@ class App:
             costo = self.grafo.grafo.nodes[nodo].get("costo", 0)
             self.lista_mst.insert(tk.END, f"{nodo} (S/ {costo:.2f})")
 
-        mostrar_grafo(mst, "Árbol de Costos Mínimos (MST)", self.right)
+        mostrar_grafo(mst, "Reducción de insumos por conexiones óptimas (MST)", self.right)
+
 
 if __name__ == "__main__":
     root = tk.Tk()

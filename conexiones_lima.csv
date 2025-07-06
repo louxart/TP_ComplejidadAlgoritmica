@@ -1,0 +1,62 @@
+Origen,Destino,Tiempo_min
+Brena,San Isidro,22
+Magdalena,Callao,17
+Miraflores,Los Olivos,27
+Los Olivos,Ate,28
+Barranco,San Borja,24
+Chorrillos,San Borja,23
+Miraflores,Magdalena,11
+Pueblo Libre,Surco,13
+San Borja,Comas,22
+San Borja,San Isidro,28
+Pueblo Libre,San Miguel,18
+Lince,Brena,23
+Callao,Barranco,24
+Ate,Callao,30
+Chorrillos,San Miguel,11
+Comas,Pueblo Libre,19
+Ate,Lince,12
+Miraflores,San Borja,26
+Brena,San Miguel,19
+Pueblo Libre,La Victoria,12
+Los Olivos,Surco,26
+Barranco,San Isidro,13
+Ate,Brena,9
+La Molina,Miraflores,21
+Chorrillos,Lince,29
+San Miguel,Comas,13
+Jesus Maria,Villa El Salvador,10
+Ate,Miraflores,29
+Barranco,Lince,26
+La Victoria,Rimac,19
+Miraflores,Barranco,24
+Lince,San Miguel,19
+Pueblo Libre,San Borja,28
+Los Olivos,Lince,29
+Brena,Jesus Maria,22
+Magdalena,Ate,27
+Surco,Miraflores,12
+Magdalena,La Molina,13
+Jesus Maria,Los Olivos,25
+Magdalena,La Victoria,11
+Magdalena,Brena,29
+Brena,La Victoria,8
+Magdalena,Chorrillos,9
+Barranco,Los Olivos,13
+Lince,La Molina,24
+Ate,Surco,13
+Pueblo Libre,Ate,17
+Magdalena,Pueblo Libre,13
+Surco,Jesus Maria,9
+Villa El Salvador,Magdalena,22
+San Miguel,Rimac,19
+Rimac,Ate,13
+San Miguel,Jesus Maria,22
+Rimac,Surco,27
+Surco,Comas,23
+San Borja,Rimac,19
+Comas,San Isidro,13
+Lince,Comas,16
+Brena,Surco,8
+La Victoria,San Borja,15
+Callao,Surco,18

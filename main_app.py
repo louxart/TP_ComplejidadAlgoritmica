@@ -1,103 +1,81 @@
-#Archivo principal
 import tkinter as tk
 from tkinter import messagebox
-from optimizar_uso_de_insumo import App as OptimizarInsumosInterface 
+from PIL import Image, ImageTk  
+
+from optimizar_uso_de_insumo import App as OptimizarInsumosInterface
 from menu import GeneradorMenuApp as BacktrackingInterface
 from proponer_recetas import ProponerRecetaApp as PropuestaInterface
+from rutas import App as RutaRestauranteApp
+
 
 class MainApplication(tk.Tk):
     def __init__(self):
         super().__init__()
         self.title("Sistema de Gestión de Recetas y Menús")
-        self.geometry("600x200")
-        self.configure(bg="#FFFFFF")
+        self.geometry("900x600")
+        self.configure(bg="#F5F5F5")
 
-        self.create_main_menu()
+        self.create_ui()
 
-    def create_main_menu(self):
-        button_frame = tk.Frame(self, bg="#FFFFFF")
-        button_frame.pack(expand=True)
-
-        btn_dfs_mst = tk.Button(button_frame,
-                                text="Optimizar Uso de Insumos (DFS - MST)",
-                                font=('Arial', 10, 'bold'),
-                                bg='#1E90FF',
-                                fg='white',
-                                relief=tk.FLAT,
-                                padx=15,
-                                pady=10,
-                                command=self.open_dfs_mst_interface)
-        btn_dfs_mst.pack(side=tk.LEFT, padx=10, pady=20)
-
-        btn_backtracking = tk.Button(button_frame,
-                                      text="Generar Menús (Backtracking)",
-                                      font=('Arial', 10, 'bold'),
-                                      bg='#4CAF50',
-                                      fg='white',
-                                      relief=tk.FLAT,
-                                      padx=15,
-                                      pady=10,
-                                      command=self.open_backtracking_interface)
-        btn_backtracking.pack(side=tk.LEFT, padx=10, pady=20)
-
-
-        btn_propuesta = tk.Button(button_frame,
-                                text="Proponer Recetas (Greedy + CFC)",
-                                font=('Arial', 10, 'bold'),
-                                bg='#FFA500',
-                                fg='white',
-                                relief=tk.FLAT,
-                                padx=15,
-                                pady=10,
-                                command=self.open_propuesta_interface)
-        btn_propuesta.pack(side=tk.LEFT, padx=10, pady=20)
-
-        btn_exit = tk.Button(button_frame,
-                              text="X",
-                              font=('Arial', 10, 'bold'),
-                              bg='green',
-                              fg='white',
-                              relief=tk.FLAT,
-                              padx=15,
-                              pady=10,
-                              command=self.quit_application)
-        btn_exit.pack(side=tk.LEFT, padx=10, pady=20)
-
-    def open_dfs_mst_interface(self):
-        new_window = tk.Toplevel(self)
-        new_window.title("Optimizar Uso de Insumos")
+    def create_ui(self):
+    
         try:
-            # Instancia la clase de la interfaz DFS-MST
-            # Asegúrate que la clase en optimizar_uso_insumos.py sea OptimizarInsumosInterface
-            OptimizarInsumosInterface(new_window) # <<-- Instanciación clave aquí
-            new_window.geometry("800x600") # Establece un tamaño para la nueva ventana
+            img = Image.open("banner.png")  
+            img = img.resize((900, 150))
+            self.banner_img = ImageTk.PhotoImage(img)
+            banner = tk.Label(self, image=self.banner_img)
+            banner.pack(pady=(10, 0))
         except Exception as e:
-            messagebox.showerror("Error al Abrir Interfaz", f"No se pudo cargar la interfaz de Optimización de Insumos: {e}")
-            new_window.destroy()
+            print(f"[WARN] No se pudo cargar la imagen: {e}")
+
+        
+        title = tk.Label(self, text="Bienvenido al Sistema de Gestión de Recetas y Menús", font=("Arial", 16, "bold"), bg="#F5F5F5", fg="#333")
+        title.pack(pady=10)
+
+      
+        button_frame = tk.Frame(self, bg="#F5F5F5")
+        button_frame.pack(pady=30)
+
+        btns = [
+            ("Optimizar Uso de Insumos (DFS - MST)", '#1E90FF', self.open_dfs_mst_interface),
+            ("Generar Menús (Backtracking)", '#4CAF50', self.open_backtracking_interface),
+            ("Proponer Recetas (Greedy + CFC)", '#FFA500', self.open_propuesta_interface),
+            ("Ver restaurante más cercano", '#008000', self.open_rutas_interface),
+        ]
+
+        for i, (label, color, command) in enumerate(btns):
+            btn = tk.Button(button_frame, text=label, font=('Arial', 11, 'bold'), bg=color,
+                            fg='white', relief=tk.RAISED, padx=20, pady=12, width=35,
+                            command=command)
+            btn.grid(row=i, column=0, pady=10)
+
+        
+        footer = tk.Label(self, text="© 2025 Proyecto de Complejidad Algoritmica", bg="#F5F5F5", fg="#666", font=("Arial", 9))
+        footer.pack(side=tk.BOTTOM, pady=10)
+
+   
+    def open_dfs_mst_interface(self):
+        self._open_new_window("Optimizar Uso de Insumos", OptimizarInsumosInterface, "800x600")
 
     def open_backtracking_interface(self):
-        new_window = tk.Toplevel(self)
-        new_window.title("Generar Menús con Backtracking")
-        try:
-            BacktrackingInterface(new_window)
-            new_window.geometry("1400x850")
-        except Exception as e:
-            messagebox.showerror("Error al Abrir Interfaz", f"No se pudo cargar la interfaz de Backtracking: {e}")
-            new_window.destroy()
+        self._open_new_window("Generar Menús con Backtracking", BacktrackingInterface, "1400x850")
+
     def open_propuesta_interface(self):
+        self._open_new_window("Propuesta de Recetas", PropuestaInterface, "1000x700")
+
+    def open_rutas_interface(self):
+        self._open_new_window("Restaurante Más Cercano", RutaRestauranteApp, "900x700")
+
+    def _open_new_window(self, title, interface_class, geometry):
         new_window = tk.Toplevel(self)
-        new_window.title("Propuesta de Recetas")
+        new_window.title(title)
         try:
-            PropuestaInterface(new_window)
-            new_window.geometry("1000x700")
+            interface_class(new_window)
+            new_window.geometry(geometry)
         except Exception as e:
-            messagebox.showerror("Error", f"No se pudo cargar la interfaz de propuesta de recetas: {e}")
+            messagebox.showerror("Error", f"No se pudo cargar la interfaz: {e}")
             new_window.destroy()
 
-
-    def quit_application(self):
-        if messagebox.askyesno("Salir", "¿Estás seguro de que quieres salir de la aplicación?"):
-            self.destroy()
 
 if __name__ == "__main__":
     app = MainApplication()
