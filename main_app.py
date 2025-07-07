@@ -39,7 +39,7 @@ class MainApplication(tk.Tk):
         btns = [
             ("Optimizar Uso de Insumos (DFS - MST)", '#1E90FF', self.open_dfs_mst_interface),
             ("Generar Menús (Backtracking)", '#4CAF50', self.open_backtracking_interface),
-            ("Proponer Recetas (Greedy + CFC)", '#FFA500', self.open_propuesta_interface),
+            ("Proponer Recetas (Topológico + CFC)", '#B39DDB', self.open_propuesta_interface),
             ("Ver restaurante más cercano", '#008000', self.open_rutas_interface),
         ]
 
