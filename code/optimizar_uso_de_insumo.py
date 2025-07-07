@@ -88,7 +88,7 @@ class App:
 
 
         self.grafo = GrafoIngredientes()
-        self.grafo.cargar_csv("ingredientes_completo.csv")
+        self.grafo.cargar_csv("dataset/ingredientes_completo.csv")
         self.crear_ui()
 
     def crear_ui(self):

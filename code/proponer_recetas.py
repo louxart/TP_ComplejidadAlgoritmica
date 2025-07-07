@@ -45,7 +45,7 @@ class ProponerRecetaApp:
         grafo = defaultdict(set)
 
         try:
-            with open('recetario.csv', mode='r', encoding='latin-1') as archivo:
+            with open('dataset/recetario.csv', mode='r', encoding='latin-1') as archivo:
                 lector = csv.DictReader(archivo, delimiter=';')
                 for fila in lector:
                     nombre = fila['Receta'].strip()

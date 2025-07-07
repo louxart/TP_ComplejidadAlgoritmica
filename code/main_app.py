@@ -20,7 +20,7 @@ class MainApplication(tk.Tk):
     def create_ui(self):
     
         try:
-            img = Image.open("banner.png")  
+            img = Image.open("code/banner.png")  
             img = img.resize((900, 150))
             self.banner_img = ImageTk.PhotoImage(img)
             banner = tk.Label(self, image=self.banner_img)

@@ -9,7 +9,7 @@ import os
 import random 
 from collections import defaultdict 
 
-RUTA_ARCHIVO_RECETAS = 'recetario.csv'
+RUTA_ARCHIVO_RECETAS = 'dataset/recetario.csv'
 CATEGORIAS_MENU = ['Entrada', 'Segundo', 'Postre', 'Bebida']
 ESTILOS = {
     'bg_main': '#FFFFFF',  

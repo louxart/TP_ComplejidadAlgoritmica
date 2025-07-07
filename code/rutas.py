@@ -85,8 +85,8 @@ class App:
         self.grafo = GrafoRutas()
 
         base_path = os.getcwd()
-        restaurantes_csv = os.path.join(base_path, "restaurantes_lima.csv")
-        conexiones_csv = os.path.join(base_path, "conexiones_lima.csv")
+        restaurantes_csv = os.path.join(base_path, "dataset/restaurantes_lima.csv")
+        conexiones_csv = os.path.join(base_path, "dataset/conexiones_lima.csv")
 
         try:
             self.grafo.cargar_datos(restaurantes_csv, conexiones_csv)
